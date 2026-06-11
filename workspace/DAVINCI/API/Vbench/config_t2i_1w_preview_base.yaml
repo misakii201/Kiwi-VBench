@@ -1,0 +1,33 @@
+# Base model only (no finetune) — same prompts/seeds/resolution as config_t2i_1w_preview.yaml
+
+model:
+  checkpoint_path: /kwkj-k8s/cy123/daVinci-MagiHuman-main/daVinci-MagiHuman-main/base
+  base_ckpt_dir: /kwkj-k8s/cy123/daVinci-MagiHuman-main/daVinci-MagiHuman-main/base
+  config_load_path: /kwkj-k8s/cy123/workspace/DAVINCI/example/base/config_infer.json
+
+params:
+  seconds: 5
+  br_width: 480
+  br_height: 800
+  fps: 25
+  num_inference_steps: 32
+  cfg_number: 2
+  t2v_freeze_audio: true
+
+  use_sr: false
+
+vbench2:
+  prompts_dir: /kwkj-k8s/cy123/workspace/VBench/VBench-2.0/prompts/prompt
+  prompts_aug_dir: /kwkj-k8s/cy123/workspace/VBench/VBench-2.0/prompts/prompt_aug/VBench2_aug_prompt
+  output_dir: /kwkj-k8s/cy123/workspace/DAVINCI/output_preview_t2i_1w_vbench_base
+  dimensions:
+    - Human_Anatomy
+    - Camera_Motion
+  limit_prompts: 1
+  base_seed: 521
+
+  parallel:
+    gpus: "0,1"
+    per_gpu_workers: 1
+    base_master_port: 6030
+    max_worker_restarts: 3

@@ -1,0 +1,19 @@
+region: cn-beijing
+model: happyhorse-1.0-t2v
+rps: 20
+poll_interval_seconds: 15
+output_dir: outputs/anime_sky_train_multi_res
+variants:
+  - resolution: 720P
+    ratio: "1:1"
+  - resolution: 1080P
+    ratio: "1:1"
+  - resolution: 720P
+    ratio: "16:9"
+  - resolution: 720P
+    ratio: "9:16"
+jobs:
+  - id: anime_sky_train
+    prompt: "A 6-second anime fantasy scene of a young traveler riding a small sky train across floating islands above the clouds. The camera performs a smooth side-tracking shot, clouds drift past the windows, birds fly below, golden sunrise light fills the frame, soft magical atmosphere, detailed anime background painting, vibrant colors, elegant motion, no subtitles, no logo, no watermark"
+    duration: 6
+    watermark: false

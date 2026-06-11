@@ -1,0 +1,607 @@
+{
+    "Material": [
+        0.84251968503937,
+        [
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/Equal amounts of yellow and blue paint are rapidly combined, with the mixture being vigorously stirred until fully blended.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/Equal amounts of yellow and blue paint are rapidly combined, with the mixture being vigorously stirred until fully blended.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/Equal amounts of yellow and blue paint are rapidly combined, with the mixture being vigorously stirred until fully blended.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/Equal amounts of black and white paint are rapidly combined, with the mixture being vigorously stirred until fully blended.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/Equal amounts of black and white paint are rapidly combined, with the mixture being vigorously stirred until fully blended.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/Equal amounts of black and white paint are rapidly combined, with the mixture being vigorously stirred until fully blended.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/Equal amounts of white and black paint are rapidly combined, with the mixture being vigorously stirred until fully blended.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/Equal amounts of white and black paint are rapidly combined, with the mixture being vigorously stirred until fully blended.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/Equal amounts of white and black paint are rapidly combined, with the mixture being vigorously stirred until fully blended.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/Equal amounts of red and purple paint are rapidly combined, with the mixture being vigorously stirred until fully blended.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/Equal amounts of red and purple paint are rapidly combined, with the mixture being vigorously stirred until fully blended.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/Equal amounts of red and purple paint are rapidly combined, with the mixture being vigorously stirred until fully blended.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/Equal amounts of blue and magenta paint are rapidly combined, with the mixture being vigorously stirred until fully blended.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/Equal amounts of blue and magenta paint are rapidly combined, with the mixture being vigorously stirred until fully blended.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/Equal amounts of blue and magenta paint are rapidly combined, with the mixture being vigorously stirred until fully blended.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/Equal amounts of brown and yellow paint are rapidly combined, with the mixture being vigorously stirred until fully blended.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/Equal amounts of brown and yellow paint are rapidly combined, with the mixture being vigorously stirred until fully blended.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/Equal amounts of brown and yellow paint are rapidly combined, with the mixture being vigorously stirred until fully blended.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A piece of calcium is ignited, emitting a vivid and unique flame as it burns steadily.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A piece of calcium is ignited, emitting a vivid and unique flame as it burns steadily.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A piece of calcium is ignited, emitting a vivid and unique flame as it burns steadily.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A piece of barium is ignited, emitting a vivid and unique flame as it burns steadily.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A piece of barium is ignited, emitting a vivid and unique flame as it burns steadily.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A piece of barium is ignited, emitting a vivid and unique flame as it burns steadily.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A piece of boric acid is ignited, emitting a vivid and unique flame as it burns steadily.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A piece of boric acid is ignited, emitting a vivid and unique flame as it burns steadily.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A piece of boric acid is ignited, emitting a vivid and unique flame as it burns steadily.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A piece of sodium chloride is ignited, emitting a vivid and unique flame as it burns steadily.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A piece of sodium chloride is ignited, emitting a vivid and unique flame as it burns steadily.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A piece of sodium chloride is ignited, emitting a vivid and unique flame as it burns steadily.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A piece of iron is ignited, emitting a vivid and unique flame as it burns steadily.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A piece of iron is ignited, emitting a vivid and unique flame as it burns steadily.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A piece of iron is ignited, emitting a vivid and unique flame as it burns steadily.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A piece of aluminum is ignited, emitting a vivid and unique flame as it burns steadily.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A piece of aluminum is ignited, emitting a vivid and unique flame as it burns steadily.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A piece of aluminum is ignited, emitting a vivid and unique flame as it burns steadily.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A piece of lead is ignited, emitting a vivid and unique flame as it burns steadily.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A piece of lead is ignited, emitting a vivid and unique flame as it burns steadily.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A piece of lead is ignited, emitting a vivid and unique flame as it burns steadily.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A fragile egg is dropped onto a hard, concrete floor-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A fragile egg is dropped onto a hard, concrete floor-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A fragile egg is dropped onto a hard, concrete floor-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A sturdy steel key is dropped onto a hard marble floor-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A sturdy steel key is dropped onto a hard marble floor-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A sturdy steel key is dropped onto a hard marble floor-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A heavy iron rod is struck with force against a wooden board-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A heavy iron rod is struck with force against a wooden board-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A heavy iron rod is struck with force against a wooden board-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A rubber eraser is rubbed against a rough sandpaper surface-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A rubber eraser is rubbed against a rough sandpaper surface-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A rubber eraser is rubbed against a rough sandpaper surface-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A clear glass of salt is gently poured into a glass of water.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A clear glass of salt is gently poured into a glass of water.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A clear glass of salt is gently poured into a glass of water.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A clear glass of oil is gently poured into a glass of milk.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A clear glass of oil is gently poured into a glass of milk.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A clear glass of oil is gently poured into a glass of milk.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A clear glass of flour is gently poured into a glass of water.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A clear glass of flour is gently poured into a glass of water.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A clear glass of flour is gently poured into a glass of water.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A clear glass of orange juice is gently poured into a glass of water.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A clear glass of orange juice is gently poured into a glass of water.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A clear glass of orange juice is gently poured into a glass of water.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A clear glass of coffee is gently poured into a glass of milk.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A clear glass of coffee is gently poured into a glass of milk.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A clear glass of coffee is gently poured into a glass of milk.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A clear glass of glycerin is gently poured into a glass of water.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A clear glass of glycerin is gently poured into a glass of water.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A clear glass of glycerin is gently poured into a glass of water.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A clear glass of coconut oil is gently poured into a glass of water.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A clear glass of coconut oil is gently poured into a glass of water.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A clear glass of coconut oil is gently poured into a glass of water.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A clear glass of baking soda is gently poured into a glass of vinegar.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A clear glass of baking soda is gently poured into a glass of vinegar.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A clear glass of baking soda is gently poured into a glass of vinegar.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A small burning piece of cardboard was thrown into a pile of dry leaves.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A small burning piece of cardboard was thrown into a pile of dry leaves.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A small burning piece of cardboard was thrown into a pile of dry leaves.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A small burning matchstick was thrown into a pile of dried hay.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A small burning matchstick was thrown into a pile of dried hay.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A small burning matchstick was thrown into a pile of dried hay.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A small burning candle was thrown into a pile of dry twigs.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A small burning candle was thrown into a pile of dry twigs.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A small burning candle was thrown into a pile of dry twigs.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A small burning piece of paper was thrown into a pile of dried flowers.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A small burning piece of paper was thrown into a pile of dried flowers.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A small burning piece of paper was thrown into a pile of dried flowers.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A small burning match was thrown into a pile of dry paper towels.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A small burning match was thrown into a pile of dry paper towels.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A small burning match was thrown into a pile of dry paper towels.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A small burning piece of wood was thrown into a pile of dry corn stalks.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A small burning piece of wood was thrown into a pile of dry corn stalks.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A small burning piece of wood was thrown into a pile of dry corn stalks.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the transformation as sodium hydroxide is added to a glass of red litmus solution.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the transformation as sodium hydroxide is added to a glass of red litmus solution.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the transformation as sodium hydroxide is added to a glass of red litmus solution.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the transformation as ammonia solution is poured into a glass of red cabbage juice.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the transformation as ammonia solution is poured into a glass of red cabbage juice.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the transformation as ammonia solution is poured into a glass of red cabbage juice.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the transformation as potassium hydroxide is added to a glass of litmus paper.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the transformation as potassium hydroxide is added to a glass of litmus paper.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the transformation as potassium hydroxide is added to a glass of litmus paper.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the transformation as sodium bicarbonate is added to a cup of vinegar.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the transformation as sodium bicarbonate is added to a cup of vinegar.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the transformation as sodium bicarbonate is added to a cup of vinegar.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the transformation as lime juice is added to a solution of blue litmus paper.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the transformation as lime juice is added to a solution of blue litmus paper.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the transformation as lime juice is added to a solution of blue litmus paper.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the transformation as sulfuric acid is added to a solution of sodium bicarbonate.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the transformation as sulfuric acid is added to a solution of sodium bicarbonate.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the transformation as sulfuric acid is added to a solution of sodium bicarbonate.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the transformation as a drop of hydrochloric acid is added to a blue litmus solution.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the transformation as a drop of hydrochloric acid is added to a blue litmus solution.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the transformation as a drop of hydrochloric acid is added to a blue litmus solution.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the reaction as concentrated sulfuric acid is poured onto a piece of toast.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the reaction as concentrated sulfuric acid is poured onto a piece of toast.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the reaction as concentrated sulfuric acid is poured onto a piece of toast.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the reaction as concentrated sulfuric acid is poured onto a glass bottle.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the reaction as concentrated sulfuric acid is poured onto a glass bottle.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the reaction as concentrated sulfuric acid is poured onto a glass bottle.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the reaction as concentrated sulfuric acid is poured onto a rubber balloon.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the reaction as concentrated sulfuric acid is poured onto a rubber balloon.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the reaction as concentrated sulfuric acid is poured onto a rubber balloon.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the reaction as concentrated sulfuric acid is poured onto a plastic spoon.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the reaction as concentrated sulfuric acid is poured onto a plastic spoon.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the reaction as concentrated sulfuric acid is poured onto a plastic spoon.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the reaction as concentrated sulfuric acid is poured onto a bar of soap.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the reaction as concentrated sulfuric acid is poured onto a bar of soap.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the reaction as concentrated sulfuric acid is poured onto a bar of soap.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the reaction as concentrated sulfuric acid is poured onto a piece of chewing gum.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the reaction as concentrated sulfuric acid is poured onto a piece of chewing gum.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the reaction as concentrated sulfuric acid is poured onto a piece of chewing gum.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the rusting of a metal fence exposed to outdoor elements over several years.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the rusting of a metal fence exposed to outdoor elements over several years.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the rusting of a metal fence exposed to outdoor elements over several years.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the oxidation of a metal garden trowel left outdoors in the rain over several seasons.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the oxidation of a metal garden trowel left outdoors in the rain over several seasons.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse captures the oxidation of a metal garden trowel left outdoors in the rain over several seasons.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse documents the oxidation process of a metal door knocker exposed to outdoor elements for a long time.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse documents the oxidation process of a metal door knocker exposed to outdoor elements for a long time.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse documents the oxidation process of a metal door knocker exposed to outdoor elements for a long time.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse shows the corrosion of a metal barbecue grill exposed to rain and humidity over several seasons.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse shows the corrosion of a metal barbecue grill exposed to rain and humidity over several seasons.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse shows the corrosion of a metal barbecue grill exposed to rain and humidity over several seasons.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse records the rusting of a metal water pipe left exposed to air and moisture over several years.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse records the rusting of a metal water pipe left exposed to air and moisture over several years.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse records the rusting of a metal water pipe left exposed to air and moisture over several years.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse records the corrosion of a metal toolbox left outside in humid weather for several years.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse records the corrosion of a metal toolbox left outside in humid weather for several years.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Material/A timelapse records the corrosion of a metal toolbox left outside in humid weather for several years.-2.mp4",
+                "video_results": 1
+            }
+        ]
+    ]
+}

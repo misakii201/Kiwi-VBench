@@ -1,0 +1,559 @@
+{
+    "Human_Identity": [
+        0.647635846058038,
+        [
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A man is doing yoga.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A man is doing yoga.-1.mp4",
+                "video_results": 0.5384615384615384
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A man is doing yoga.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A man is running.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A man is running.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A man is running.-2.mp4",
+                "video_results": 0.5405405405405406
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A man is dancing.-0.mp4",
+                "video_results": 0.7672413793103449
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A man is dancing.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A man is dancing.-2.mp4",
+                "video_results": 0.7241379310344828
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A woman is dancing.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A woman is dancing.-1.mp4",
+                "video_results": 0.48623853211009177
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A woman is dancing.-2.mp4",
+                "video_results": 0.7837837837837838
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A man is playing basketball.-0.mp4",
+                "video_results": 0.58
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A man is playing basketball.-1.mp4",
+                "video_results": 0.7352941176470589
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A man is playing basketball.-2.mp4",
+                "video_results": 0.21359223300970873
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A woman is playing basketball.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A woman is playing basketball.-1.mp4",
+                "video_results": 0.27884615384615385
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A woman is playing basketball.-2.mp4",
+                "video_results": 0.5670103092783505
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A man is cutting objects.-0.mp4",
+                "video_results": 0.5660377358490566
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A man is cutting objects.-1.mp4",
+                "video_results": 0.95
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A man is cutting objects.-2.mp4",
+                "video_results": 0.9263157894736842
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A man is playing badminton.-0.mp4",
+                "video_results": 0.6576576576576577
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A man is playing badminton.-1.mp4",
+                "video_results": 0.25263157894736843
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A man is playing badminton.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A man is playing ping-pong.-0.mp4",
+                "video_results": 0.5517241379310345
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A man is playing ping-pong.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A man is playing ping-pong.-2.mp4",
+                "video_results": 0.13392857142857142
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A woman is playing ping-pong.-0.mp4",
+                "video_results": 0.7631578947368421
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A woman is playing ping-pong.-1.mp4",
+                "video_results": 0.3333333333333333
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A woman is playing ping-pong.-2.mp4",
+                "video_results": 0.5510204081632653
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A woman is doing gymnastics.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A woman is doing gymnastics.-1.mp4",
+                "video_results": 0.6
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A woman is doing gymnastics.-2.mp4",
+                "video_results": 0.8378378378378378
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A woman is doing exercises.-0.mp4",
+                "video_results": 0.6
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A woman is doing exercises.-1.mp4",
+                "video_results": 0.696078431372549
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A woman is doing exercises.-2.mp4",
+                "video_results": 0.8947368421052632
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A woman is jumping.-0.mp4",
+                "video_results": 0.9223300970873787
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A woman is jumping.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A woman is jumping.-2.mp4",
+                "video_results": 0.6086956521739131
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is drinking a glass of water, then they suddenly start cleaning the windows.-0.mp4",
+                "video_results": 0.8598130841121495
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is drinking a glass of water, then they suddenly start cleaning the windows.-1.mp4",
+                "video_results": 0.9047619047619048
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is drinking a glass of water, then they suddenly start cleaning the windows.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is reading a book, then they suddenly start folding laundry.-0.mp4",
+                "video_results": 0.6759259259259259
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is reading a book, then they suddenly start folding laundry.-1.mp4",
+                "video_results": 0.4782608695652174
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is reading a book, then they suddenly start folding laundry.-2.mp4",
+                "video_results": 0.7962962962962963
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is checking their phone, then they suddenly start watering the plants.-0.mp4",
+                "video_results": 0.4444444444444444
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is checking their phone, then they suddenly start watering the plants.-1.mp4",
+                "video_results": 0.5858585858585859
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is checking their phone, then they suddenly start watering the plants.-2.mp4",
+                "video_results": 0.7043478260869566
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is eating a sandwich, then they suddenly start organizing the bookshelf.-0.mp4",
+                "video_results": 0.6929824561403509
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is eating a sandwich, then they suddenly start organizing the bookshelf.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is eating a sandwich, then they suddenly start organizing the bookshelf.-2.mp4",
+                "video_results": 0.7476635514018691
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is sitting in a chair, then they suddenly get up and start stretching.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is sitting in a chair, then they suddenly get up and start stretching.-1.mp4",
+                "video_results": 0.5376344086021505
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is sitting in a chair, then they suddenly get up and start stretching.-2.mp4",
+                "video_results": 0.7281553398058253
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is cleaning the kitchen, then they suddenly start mopping the floor.-0.mp4",
+                "video_results": 0.7844827586206896
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is cleaning the kitchen, then they suddenly start mopping the floor.-1.mp4",
+                "video_results": 0.7394957983193278
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is cleaning the kitchen, then they suddenly start mopping the floor.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is writing an email, then they suddenly get up and start baking cookies.-0.mp4",
+                "video_results": 0.6101694915254238
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is writing an email, then they suddenly get up and start baking cookies.-1.mp4",
+                "video_results": 0.11627906976744186
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is writing an email, then they suddenly get up and start baking cookies.-2.mp4",
+                "video_results": 0.6448598130841121
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is exercising, then they suddenly start making lunch.-0.mp4",
+                "video_results": 0.3404255319148936
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is exercising, then they suddenly start making lunch.-1.mp4",
+                "video_results": 0.6796116504854369
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is exercising, then they suddenly start making lunch.-2.mp4",
+                "video_results": 0.4777777777777778
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is organizing their closet, then they suddenly start tidying the garage.-0.mp4",
+                "video_results": 0.6727272727272727
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is organizing their closet, then they suddenly start tidying the garage.-1.mp4",
+                "video_results": 0.4260869565217391
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is organizing their closet, then they suddenly start tidying the garage.-2.mp4",
+                "video_results": 0.6545454545454545
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is sitting at the table, then they suddenly start drawing on a notepad.-0.mp4",
+                "video_results": 0.9565217391304348
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is sitting at the table, then they suddenly start drawing on a notepad.-1.mp4",
+                "video_results": 0.918918918918919
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is sitting at the table, then they suddenly start drawing on a notepad.-2.mp4",
+                "video_results": 0.9741379310344828
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is drinking tea, then they suddenly start folding the laundry.-0.mp4",
+                "video_results": 0.21100917431192662
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is drinking tea, then they suddenly start folding the laundry.-1.mp4",
+                "video_results": 0.7545454545454545
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is drinking tea, then they suddenly start folding the laundry.-2.mp4",
+                "video_results": 0.5855855855855856
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is watching a movie, then they suddenly get up and start sweeping the porch.-0.mp4",
+                "video_results": 0.5242718446601942
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is watching a movie, then they suddenly get up and start sweeping the porch.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is watching a movie, then they suddenly get up and start sweeping the porch.-2.mp4",
+                "video_results": 0.6837606837606838
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is eating lunch, then they suddenly start cleaning the car.-0.mp4",
+                "video_results": 0.41739130434782606
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is eating lunch, then they suddenly start cleaning the car.-1.mp4",
+                "video_results": 0.7899159663865546
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is eating lunch, then they suddenly start cleaning the car.-2.mp4",
+                "video_results": 0.4074074074074074
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is sitting at a desk, then they suddenly get up and start doing push-ups.-0.mp4",
+                "video_results": 0.543859649122807
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is sitting at a desk, then they suddenly get up and start doing push-ups.-1.mp4",
+                "video_results": 0.5929203539823009
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is sitting at a desk, then they suddenly get up and start doing push-ups.-2.mp4",
+                "video_results": 0.6947368421052632
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is playing a game on their phone, then they suddenly start cleaning the bathroom.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is playing a game on their phone, then they suddenly start cleaning the bathroom.-1.mp4",
+                "video_results": 0.7714285714285715
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is playing a game on their phone, then they suddenly start cleaning the bathroom.-2.mp4",
+                "video_results": 0.7053571428571429
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is brushing their teeth, then they suddenly start making breakfast.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is brushing their teeth, then they suddenly start making breakfast.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is brushing their teeth, then they suddenly start making breakfast.-2.mp4",
+                "video_results": 0.4594594594594595
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is drinking coffee, then they suddenly get up and start sweeping the garage.-0.mp4",
+                "video_results": 0.8
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is drinking coffee, then they suddenly get up and start sweeping the garage.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is drinking coffee, then they suddenly get up and start sweeping the garage.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is texting, then they suddenly get up and start vacuuming the floor.-0.mp4",
+                "video_results": 0.8247422680412371
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is texting, then they suddenly get up and start vacuuming the floor.-1.mp4",
+                "video_results": 0.8532110091743119
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is texting, then they suddenly get up and start vacuuming the floor.-2.mp4",
+                "video_results": 0.7717391304347826
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is reading the news, then they suddenly start watering the plants.-0.mp4",
+                "video_results": 0.5833333333333334
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is reading the news, then they suddenly start watering the plants.-1.mp4",
+                "video_results": 0.794392523364486
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is reading the news, then they suddenly start watering the plants.-2.mp4",
+                "video_results": 0.39316239316239315
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is sitting in a chair, then they suddenly stand up and start stretching.-0.mp4",
+                "video_results": 0.8898305084745762
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is sitting in a chair, then they suddenly stand up and start stretching.-1.mp4",
+                "video_results": 0.7619047619047619
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is sitting in a chair, then they suddenly stand up and start stretching.-2.mp4",
+                "video_results": 0.8347826086956521
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is washing the dishes, then they suddenly start sweeping the floor.-0.mp4",
+                "video_results": 0.5529411764705883
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is washing the dishes, then they suddenly start sweeping the floor.-1.mp4",
+                "video_results": 0.7924528301886793
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is washing the dishes, then they suddenly start sweeping the floor.-2.mp4",
+                "video_results": 0.41964285714285715
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is checking their email, then they suddenly start making a phone call.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is checking their email, then they suddenly start making a phone call.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is checking their email, then they suddenly start making a phone call.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is drinking water, then they suddenly start organizing their desk.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is drinking water, then they suddenly start organizing their desk.-1.mp4",
+                "video_results": 0.9380530973451328
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is drinking water, then they suddenly start organizing their desk.-2.mp4",
+                "video_results": 0.6491228070175439
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is working on a project, then they suddenly start cooking dinner.-0.mp4",
+                "video_results": 0.7844827586206896
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is working on a project, then they suddenly start cooking dinner.-1.mp4",
+                "video_results": 0.12844036697247707
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is working on a project, then they suddenly start cooking dinner.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is folding clothes, then they suddenly get up and start reading a book.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is folding clothes, then they suddenly get up and start reading a book.-1.mp4",
+                "video_results": 0.6846846846846847
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is folding clothes, then they suddenly get up and start reading a book.-2.mp4",
+                "video_results": 0.5688073394495413
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is sitting on a chair, then they suddenly start cleaning the desk.-0.mp4",
+                "video_results": 0.6909090909090909
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is sitting on a chair, then they suddenly start cleaning the desk.-1.mp4",
+                "video_results": 0.8285714285714286
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is sitting on a chair, then they suddenly start cleaning the desk.-2.mp4",
+                "video_results": 0.6140350877192983
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is drinking tea, then they suddenly start making a phone call.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is drinking tea, then they suddenly start making a phone call.-1.mp4",
+                "video_results": 0.9912280701754386
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is drinking tea, then they suddenly start making a phone call.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is watching a video, then they suddenly get up and start sweeping the yard.-0.mp4",
+                "video_results": 0.6699029126213593
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is watching a video, then they suddenly get up and start sweeping the yard.-1.mp4",
+                "video_results": 0.6666666666666666
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is watching a video, then they suddenly get up and start sweeping the yard.-2.mp4",
+                "video_results": 0.6952380952380952
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is doing yoga, then they suddenly get up and start making dinner.-0.mp4",
+                "video_results": 0.41964285714285715
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is doing yoga, then they suddenly get up and start making dinner.-1.mp4",
+                "video_results": 0.9117647058823529
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is doing yoga, then they suddenly get up and start making dinner.-2.mp4",
+                "video_results": 0.2727272727272727
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is organizing their desk, then they suddenly start doing the dishes.-0.mp4",
+                "video_results": 0.7631578947368421
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is organizing their desk, then they suddenly start doing the dishes.-1.mp4",
+                "video_results": 0.2621359223300971
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is organizing their desk, then they suddenly start doing the dishes.-2.mp4",
+                "video_results": 0.3898305084745763
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is getting ready for work, then they suddenly start cleaning the kitchen.-0.mp4",
+                "video_results": 0.4444444444444444
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is getting ready for work, then they suddenly start cleaning the kitchen.-1.mp4",
+                "video_results": 0.8351648351648352
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is getting ready for work, then they suddenly start cleaning the kitchen.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is drinking a smoothie, then they suddenly start folding clothes.-0.mp4",
+                "video_results": 0.654320987654321
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is drinking a smoothie, then they suddenly start folding clothes.-1.mp4",
+                "video_results": 0.5963302752293578
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is drinking a smoothie, then they suddenly start folding clothes.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is reading a magazine, then they suddenly get up and start organizing the closet.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is reading a magazine, then they suddenly get up and start organizing the closet.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Identity/A person is reading a magazine, then they suddenly get up and start organizing the closet.-2.mp4",
+                "video_results": 0.8584070796460177
+            }
+        ]
+    ]
+}

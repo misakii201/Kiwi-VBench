@@ -1,0 +1,559 @@
+{
+    "Human_Identity": [
+        0.6862592896471496,
+        [
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A man is doing yoga.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A man is doing yoga.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A man is doing yoga.-2.mp4",
+                "video_results": 0.4666666666666667
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A man is running.-0.mp4",
+                "video_results": 0.8083333333333333
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A man is running.-1.mp4",
+                "video_results": 0.43902439024390244
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A man is running.-2.mp4",
+                "video_results": 0.8282828282828283
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A man is dancing.-0.mp4",
+                "video_results": 0.008403361344537815
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A man is dancing.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A man is dancing.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A woman is dancing.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A woman is dancing.-1.mp4",
+                "video_results": 0.6460176991150443
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A woman is dancing.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A man is playing basketball.-0.mp4",
+                "video_results": 0.8617886178861789
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A man is playing basketball.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A man is playing basketball.-2.mp4",
+                "video_results": 0.9583333333333334
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A woman is playing basketball.-0.mp4",
+                "video_results": 0.24324324324324326
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A woman is playing basketball.-1.mp4",
+                "video_results": 0.6583333333333333
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A woman is playing basketball.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A man is cutting objects.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A man is cutting objects.-1.mp4",
+                "video_results": 0.11570247933884298
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A man is cutting objects.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A man is playing badminton.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A man is playing badminton.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A man is playing badminton.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A man is playing ping-pong.-0.mp4",
+                "video_results": 0.7479674796747967
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A man is playing ping-pong.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A man is playing ping-pong.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A woman is playing ping-pong.-0.mp4",
+                "video_results": 0.01680672268907563
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A woman is playing ping-pong.-1.mp4",
+                "video_results": 0.7966101694915254
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A woman is playing ping-pong.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A woman is doing gymnastics.-0.mp4",
+                "video_results": 0.5934959349593496
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A woman is doing gymnastics.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A woman is doing gymnastics.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A woman is doing exercises.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A woman is doing exercises.-1.mp4",
+                "video_results": 0.9274193548387096
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A woman is doing exercises.-2.mp4",
+                "video_results": 0.1652892561983471
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A woman is jumping.-0.mp4",
+                "video_results": 0.22764227642276422
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A woman is jumping.-1.mp4",
+                "video_results": 0.8859649122807017
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A woman is jumping.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is drinking a glass of water, then they suddenly start cleaning the windows.-0.mp4",
+                "video_results": 0.9435483870967742
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is drinking a glass of water, then they suddenly start cleaning the windows.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is drinking a glass of water, then they suddenly start cleaning the windows.-2.mp4",
+                "video_results": 0.9
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is reading a book, then they suddenly start folding laundry.-0.mp4",
+                "video_results": 0.4358974358974359
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is reading a book, then they suddenly start folding laundry.-1.mp4",
+                "video_results": 0.6470588235294118
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is reading a book, then they suddenly start folding laundry.-2.mp4",
+                "video_results": 0.75
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is checking their phone, then they suddenly start watering the plants.-0.mp4",
+                "video_results": 0.6179775280898876
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is checking their phone, then they suddenly start watering the plants.-1.mp4",
+                "video_results": 0.8548387096774194
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is checking their phone, then they suddenly start watering the plants.-2.mp4",
+                "video_results": 0.6774193548387096
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is eating a sandwich, then they suddenly start organizing the bookshelf.-0.mp4",
+                "video_results": 0.7863247863247863
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is eating a sandwich, then they suddenly start organizing the bookshelf.-1.mp4",
+                "video_results": 0.5213675213675214
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is eating a sandwich, then they suddenly start organizing the bookshelf.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is sitting in a chair, then they suddenly get up and start stretching.-0.mp4",
+                "video_results": 0.9576271186440678
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is sitting in a chair, then they suddenly get up and start stretching.-1.mp4",
+                "video_results": 0.8067226890756303
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is sitting in a chair, then they suddenly get up and start stretching.-2.mp4",
+                "video_results": 0.9375
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is cleaning the kitchen, then they suddenly start mopping the floor.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is cleaning the kitchen, then they suddenly start mopping the floor.-1.mp4",
+                "video_results": 0.4715447154471545
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is cleaning the kitchen, then they suddenly start mopping the floor.-2.mp4",
+                "video_results": 0.3013698630136986
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is writing an email, then they suddenly get up and start baking cookies.-0.mp4",
+                "video_results": 0.7672413793103449
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is writing an email, then they suddenly get up and start baking cookies.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is writing an email, then they suddenly get up and start baking cookies.-2.mp4",
+                "video_results": 0.8421052631578947
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is exercising, then they suddenly start making lunch.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is exercising, then they suddenly start making lunch.-1.mp4",
+                "video_results": 0.2796610169491525
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is exercising, then they suddenly start making lunch.-2.mp4",
+                "video_results": 0.3089430894308943
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is organizing their closet, then they suddenly start tidying the garage.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is organizing their closet, then they suddenly start tidying the garage.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is organizing their closet, then they suddenly start tidying the garage.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is sitting at the table, then they suddenly start drawing on a notepad.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is sitting at the table, then they suddenly start drawing on a notepad.-1.mp4",
+                "video_results": 0.926829268292683
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is sitting at the table, then they suddenly start drawing on a notepad.-2.mp4",
+                "video_results": 0.9658119658119658
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is drinking tea, then they suddenly start folding the laundry.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is drinking tea, then they suddenly start folding the laundry.-1.mp4",
+                "video_results": 0.7422680412371134
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is drinking tea, then they suddenly start folding the laundry.-2.mp4",
+                "video_results": 0.85
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is watching a movie, then they suddenly get up and start sweeping the porch.-0.mp4",
+                "video_results": 0.5966386554621849
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is watching a movie, then they suddenly get up and start sweeping the porch.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is watching a movie, then they suddenly get up and start sweeping the porch.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is eating lunch, then they suddenly start cleaning the car.-0.mp4",
+                "video_results": 0.2222222222222222
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is eating lunch, then they suddenly start cleaning the car.-1.mp4",
+                "video_results": 0.6017699115044248
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is eating lunch, then they suddenly start cleaning the car.-2.mp4",
+                "video_results": 0.48695652173913045
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is sitting at a desk, then they suddenly get up and start doing push-ups.-0.mp4",
+                "video_results": 0.9646017699115044
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is sitting at a desk, then they suddenly get up and start doing push-ups.-1.mp4",
+                "video_results": 0.8583333333333333
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is sitting at a desk, then they suddenly get up and start doing push-ups.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is playing a game on their phone, then they suddenly start cleaning the bathroom.-0.mp4",
+                "video_results": 0.5080645161290323
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is playing a game on their phone, then they suddenly start cleaning the bathroom.-1.mp4",
+                "video_results": 0.4732142857142857
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is playing a game on their phone, then they suddenly start cleaning the bathroom.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is brushing their teeth, then they suddenly start making breakfast.-0.mp4",
+                "video_results": 0.7321428571428571
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is brushing their teeth, then they suddenly start making breakfast.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is brushing their teeth, then they suddenly start making breakfast.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is drinking coffee, then they suddenly get up and start sweeping the garage.-0.mp4",
+                "video_results": 0.654320987654321
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is drinking coffee, then they suddenly get up and start sweeping the garage.-1.mp4",
+                "video_results": 0.1440677966101695
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is drinking coffee, then they suddenly get up and start sweeping the garage.-2.mp4",
+                "video_results": 0.9375
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is texting, then they suddenly get up and start vacuuming the floor.-0.mp4",
+                "video_results": 0.8617886178861789
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is texting, then they suddenly get up and start vacuuming the floor.-1.mp4",
+                "video_results": 0.6370967741935484
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is texting, then they suddenly get up and start vacuuming the floor.-2.mp4",
+                "video_results": 0.18604651162790697
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is reading the news, then they suddenly start watering the plants.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is reading the news, then they suddenly start watering the plants.-1.mp4",
+                "video_results": 0.8813559322033898
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is reading the news, then they suddenly start watering the plants.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is sitting in a chair, then they suddenly stand up and start stretching.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is sitting in a chair, then they suddenly stand up and start stretching.-1.mp4",
+                "video_results": 0.6403508771929824
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is sitting in a chair, then they suddenly stand up and start stretching.-2.mp4",
+                "video_results": 0.4583333333333333
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is washing the dishes, then they suddenly start sweeping the floor.-0.mp4",
+                "video_results": 0.746031746031746
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is washing the dishes, then they suddenly start sweeping the floor.-1.mp4",
+                "video_results": 0.5241935483870968
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is washing the dishes, then they suddenly start sweeping the floor.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is checking their email, then they suddenly start making a phone call.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is checking their email, then they suddenly start making a phone call.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is checking their email, then they suddenly start making a phone call.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is drinking water, then they suddenly start organizing their desk.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is drinking water, then they suddenly start organizing their desk.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is drinking water, then they suddenly start organizing their desk.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is working on a project, then they suddenly start cooking dinner.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is working on a project, then they suddenly start cooking dinner.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is working on a project, then they suddenly start cooking dinner.-2.mp4",
+                "video_results": 0.6475409836065574
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is folding clothes, then they suddenly get up and start reading a book.-0.mp4",
+                "video_results": 0.7786885245901639
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is folding clothes, then they suddenly get up and start reading a book.-1.mp4",
+                "video_results": 0.25663716814159293
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is folding clothes, then they suddenly get up and start reading a book.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is sitting on a chair, then they suddenly start cleaning the desk.-0.mp4",
+                "video_results": 0.9910714285714286
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is sitting on a chair, then they suddenly start cleaning the desk.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is sitting on a chair, then they suddenly start cleaning the desk.-2.mp4",
+                "video_results": 0.87
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is drinking tea, then they suddenly start making a phone call.-0.mp4",
+                "video_results": 0.5666666666666667
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is drinking tea, then they suddenly start making a phone call.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is drinking tea, then they suddenly start making a phone call.-2.mp4",
+                "video_results": 0.5666666666666667
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is watching a video, then they suddenly get up and start sweeping the yard.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is watching a video, then they suddenly get up and start sweeping the yard.-1.mp4",
+                "video_results": 0.4838709677419355
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is watching a video, then they suddenly get up and start sweeping the yard.-2.mp4",
+                "video_results": 0.5491803278688525
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is doing yoga, then they suddenly get up and start making dinner.-0.mp4",
+                "video_results": 0.35537190082644626
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is doing yoga, then they suddenly get up and start making dinner.-1.mp4",
+                "video_results": 0.4188034188034188
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is doing yoga, then they suddenly get up and start making dinner.-2.mp4",
+                "video_results": 0.9238095238095239
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is organizing their desk, then they suddenly start doing the dishes.-0.mp4",
+                "video_results": 0.768595041322314
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is organizing their desk, then they suddenly start doing the dishes.-1.mp4",
+                "video_results": 0.41025641025641024
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is organizing their desk, then they suddenly start doing the dishes.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is getting ready for work, then they suddenly start cleaning the kitchen.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is getting ready for work, then they suddenly start cleaning the kitchen.-1.mp4",
+                "video_results": 0.717741935483871
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is getting ready for work, then they suddenly start cleaning the kitchen.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is drinking a smoothie, then they suddenly start folding clothes.-0.mp4",
+                "video_results": 0.8833333333333333
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is drinking a smoothie, then they suddenly start folding clothes.-1.mp4",
+                "video_results": 0.6166666666666667
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is drinking a smoothie, then they suddenly start folding clothes.-2.mp4",
+                "video_results": 0.8305084745762712
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is reading a magazine, then they suddenly get up and start organizing the closet.-0.mp4",
+                "video_results": 0.6285714285714286
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is reading a magazine, then they suddenly get up and start organizing the closet.-1.mp4",
+                "video_results": 0.6974789915966386
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Human_Identity/A person is reading a magazine, then they suddenly get up and start organizing the closet.-2.mp4",
+                "video_results": 0.8032786885245902
+            }
+        ]
+    ]
+}

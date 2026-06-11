@@ -1,0 +1,16 @@
+{
+  "engine_config": {
+    "load": "/kwkj-k8s/cy123/daVinci-MagiHuman-main/daVinci-MagiHuman-main/base",
+    "cp_size": 1
+  },
+  "evaluation_config": {
+    "cfg_number": 2,
+    "num_inference_steps": 32,
+    "audio_model_path": "/kwkj-k8s/cy123/daVinci-MagiHuman-main/daVinci-MagiHuman-main/audio_model",
+    "txt_model_path": "/kwkj-k8s/cy123/daVinci-MagiHuman-main/daVinci-MagiHuman-main/gemma",
+    "vae_model_path": "/home/zetyun/Sora2-mini/UniAVGen",
+    "use_turbo_vae": false,
+    "student_config_path": "",
+    "student_ckpt_path": ""
+  }
+}

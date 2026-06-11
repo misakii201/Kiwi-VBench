@@ -1,0 +1,18 @@
+{
+  "engine_config": {
+    "load": "/kwkj-k8s/davinci/LJH/models/daVinci-MagiHuman/base",
+    "cp_size": 7
+  },
+  "evaluation_config": {
+    "cfg_number": 2,
+    "num_inference_steps": 32,
+    "audio_model_path": "/kwkj-k8s/davinci/LJH/models/stable-audio-open-1.0",
+    "txt_model_path": "/kwkj-k8s/davinci/LJH/models/t5gemma-9b-9b-ul2",
+    "vae_model_path": "/kwkj-k8s/davinci/LJH/models/Wan2.2-TI2V-5B",
+    "use_sr_model": true,
+    "sr_model_path": "/kwkj-k8s/davinci/LJH/models/daVinci-MagiHuman/1080p_sr",
+    "sr_num_inference_steps": 5,
+    "sr_cfg_number": 1,
+    "use_turbo_vae": false
+  }
+}

@@ -1,0 +1,54 @@
+# DAVINCI (daVinci-MagiHuman) → 为 VBench-2.0 评测批量生成 mp4 视频
+# 参考 LTX2.3 的 config_ltx2_3_vbench2.yaml 结构
+
+model:
+  # 训练得到的 .pt checkpoint（dict 包含 'model' 字段）
+  checkpoint_path: /kwkj-k8s/YANG_LTX/workspace/DAVINCI/output_train_video_from_t2i_ckptbest_seedance_vertical_v1/ckpt_step_4000.pt
+  # 兜底基模型（safetensors 分片目录）。从 .pt 加载时未覆盖到的层会从这里读取，避免缺权重
+  base_ckpt_dir: /kwkj-k8s/davinci/LJH/models/daVinci-MagiHuman/base
+  # DAVINCI 推理依赖的基础 config.json（包含 VAE / T5-Gemma / audio 等本地路径）
+  config_load_path: /kwkj-k8s/YANG_LTX/workspace/DAVINCI/example/base/config.json
+
+params:
+  # DAVINCI 两阶段：base → 540p_sr，且 SR latent 必须为 base latent 的整数倍，否则 trilinear 插值会糊/重影。
+  # 近 720P 竖屏：base 352×640 (latent 22×40) → SR 704×1280 (latent 44×80)，严格 ×2。
+  # 训练数据多为 272×480；352×640 为略高于训练的推理尺寸，冒烟已验证清晰。
+  seconds: 5
+  # br_width: 352
+  # br_height: 640
+  br_width: 272
+  br_height: 480
+  fps: 25
+  num_inference_steps: 32
+  cfg_number: 2
+  t2v_freeze_audio: true
+
+  use_sr: false
+  # use_sr: true
+  # sr_model_path: /kwkj-k8s/davinci/LJH/models/daVinci-MagiHuman/540p_sr
+  # # sr_width: 704
+  # sr_width: 768
+  # sr_height: 1280
+  # sr_num_inference_steps: 5
+  # sr_cfg_number: 1
+  # output_width: null
+  # output_height: null
+  # output_upsample_mode: bicubic
+
+vbench2:
+  prompts_dir: /kwkj-k8s/YANG_LTX/workspace/VBench/VBench-2.0/prompts/prompt
+  prompts_aug_dir: /kwkj-k8s/YANG_LTX/workspace/VBench/VBench-2.0/prompts/prompt_aug/VBench2_aug_prompt
+  output_dir: /kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280
+  # 指定需要评测的维度列表；若设为空列表 []，则默认评测全部 18 个维度
+  dimensions: []
+  # 每个维度的前 N 条提示词，设为 0 时评测该维度下的全部提示词
+  limit_prompts: 0
+  base_seed: 521
+  parallel:
+    gpus: "1,2,3,4,5,6,7"
+    # DAVINCI 15B 单卡显存吃紧，先 1；显存富裕可调高
+    per_gpu_workers: 1
+    # 启动 worker 时的 rendezvous 端口起点（每个 worker 独占一个端口）
+    base_master_port: 6010
+    # 单槽位 OOM/异常后的额外重启次数（不含首次）；默认 3 即同一槽位最多 4 次进程
+    max_worker_restarts: 3

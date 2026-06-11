@@ -1,0 +1,15 @@
+region: cn-beijing
+model: happyhorse-1.0-t2v
+rps: 20
+poll_interval_seconds: 15
+output_dir: outputs
+
+variants:
+  - resolution: 1080P
+    ratio: "16:9"
+
+jobs:
+  - id: fast_break_single
+    prompt: "一名篮球运动员在室内球馆完成高速快攻上篮，镜头跟随奔跑，电影感灯光，真实运动摄影风格。"
+    duration: 5
+    watermark: false

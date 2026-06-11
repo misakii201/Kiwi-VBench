@@ -1,0 +1,15 @@
+region: cn-beijing
+model: happyhorse-1.0-t2v
+rps: 20
+poll_interval_seconds: 15
+output_dir: outputs
+
+variants:
+  - resolution: 1080P
+    ratio: "1:1"
+
+jobs:
+  - id: basketball_square_master
+    prompt: "一名篮球运动员在室内球馆完成高速快攻上篮，主体人物全身可见，人物占画面较小并位于画面中心，四周留出充足空间，适合后期裁切成横屏、竖屏、方形和超宽画幅，电影感灯光，真实运动摄影风格，稳定跟随镜头。"
+    duration: 5
+    watermark: false

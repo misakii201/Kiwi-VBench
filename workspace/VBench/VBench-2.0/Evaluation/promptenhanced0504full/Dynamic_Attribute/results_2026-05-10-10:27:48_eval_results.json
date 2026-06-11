@@ -1,0 +1,1099 @@
+{
+    "Dynamic_Attribute": [
+        0.5494505494505495,
+        [
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The leaves gradually change from red to green.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The leaves gradually change from red to green.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The leaves gradually change from red to green.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A river changes from blue to brown.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A river changes from blue to brown.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A river changes from blue to brown.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A river changes from brown to blue.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A river changes from brown to blue.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A river changes from brown to blue.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A car changes from white to red.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A car changes from white to red.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A car changes from white to red.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A car changes from red to white.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A car changes from red to white.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A car changes from red to white.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A car changes from white to golden.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A car changes from white to golden.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A car changes from white to golden.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A car changes from golden to white.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A car changes from golden to white.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A car changes from golden to white.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A car changes from black to white.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A car changes from black to white.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A car changes from black to white.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A pair of shoes changes from red to yellow.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A pair of shoes changes from red to yellow.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A pair of shoes changes from red to yellow.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A pair of shoes changes from yellow to red.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A pair of shoes changes from yellow to red.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A pair of shoes changes from yellow to red.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A flower changes from purple to orange.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A flower changes from purple to orange.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A flower changes from purple to orange.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A flower changes from orange to purple.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A flower changes from orange to purple.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A flower changes from orange to purple.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A butterfly's wings change from yellow to white.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A butterfly's wings change from yellow to white.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A butterfly's wings change from yellow to white.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A butterfly's wings change from white to yellow.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A butterfly's wings change from white to yellow.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A butterfly's wings change from white to yellow.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A wall changes from grey to yellow.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A wall changes from grey to yellow.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A wall changes from grey to yellow.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A wall changes from yellow to grey.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A wall changes from yellow to grey.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A wall changes from yellow to grey.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A wall changes from black to white.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A wall changes from black to white.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A wall changes from black to white.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A wall changes from white to black.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A wall changes from white to black.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A wall changes from white to black.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A seashell changes from beige to pink.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A seashell changes from beige to pink.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A seashell changes from beige to pink.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A fish changes from silver to blue.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A fish changes from silver to blue.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A fish changes from silver to blue.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A fish changes from blue to silver.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A fish changes from blue to silver.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A fish changes from blue to silver.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A piece of fabric changes from blue to pink.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A piece of fabric changes from blue to pink.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A piece of fabric changes from blue to pink.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A piece of fabric changes from pink to blue.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A piece of fabric changes from pink to blue.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A piece of fabric changes from pink to blue.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The moon changes from yellow to silver.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The moon changes from yellow to silver.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The moon changes from yellow to silver.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The moon changes from silver to yellow.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The moon changes from silver to yellow.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The moon changes from silver to yellow.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A rock changes from red to grey.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A rock changes from red to grey.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A rock changes from red to grey.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A cloud changes from white to grey.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A cloud changes from white to grey.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A cloud changes from white to grey.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A cloud changes from white to black.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A cloud changes from white to black.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A cloud changes from white to black.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A cloud changes from black to grey.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A cloud changes from black to grey.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A cloud changes from black to grey.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A cloud changes from black to white.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A cloud changes from black to white.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A cloud changes from black to white.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A person's hair changes from black to blonde.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A person's hair changes from black to blonde.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A person's hair changes from black to blonde.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The sky changes from deep black to white as dawn breaks.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The sky changes from deep black to white as dawn breaks.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The sky changes from deep black to white as dawn breaks.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The sky changes from bright to dark.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The sky changes from bright to dark.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The sky changes from bright to dark.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A lamp changes from dim to bright.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A lamp changes from dim to bright.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A lamp changes from dim to bright.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A torch changes from dim to bright.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A torch changes from dim to bright.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A torch changes from dim to bright.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A screen changes from dark to bright.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A screen changes from dark to bright.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A screen changes from dark to bright.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A streetlight changes from off to on.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A streetlight changes from off to on.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A streetlight changes from off to on.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A star changes from faint to bright.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A star changes from faint to bright.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A star changes from faint to bright.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A room changes from dark to bright as sunlight enters.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A room changes from dark to bright as sunlight enters.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A room changes from dark to bright as sunlight enters.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A room changes from bright to dark.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A room changes from bright to dark.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A room changes from bright to dark.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A gemstone changes from dull to bright.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A gemstone changes from dull to bright.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A gemstone changes from dull to bright.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A candle changes from flickering dimly to steady bright.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A candle changes from flickering dimly to steady bright.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A candle changes from flickering dimly to steady bright.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A computer screen changes from off to bright.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A computer screen changes from off to bright.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A computer screen changes from off to bright.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A panda changes from small to big.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A panda changes from small to big.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A panda changes from small to big.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A panda changes from big to small.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A panda changes from big to small.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A panda changes from big to small.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A dog changes from small to big.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A dog changes from small to big.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A dog changes from small to big.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A dog changes from big to small.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A dog changes from big to small.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A dog changes from big to small.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A cat changes from small to big.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A cat changes from small to big.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A cat changes from small to big.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A cat changes from big to small.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A cat changes from big to small.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A cat changes from big to small.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A fish changes from small to big.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A fish changes from small to big.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A fish changes from small to big.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A fish changes from big to small.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A fish changes from big to small.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A fish changes from big to small.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A lion changes from small to big.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A lion changes from small to big.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A lion changes from small to big.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A lion changes from big to small.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A lion changes from big to small.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A lion changes from big to small.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A tiger changes from small to big.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A tiger changes from small to big.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A tiger changes from small to big.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A tiger changes from big to small.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A tiger changes from big to small.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A tiger changes from big to small.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A balloon changes from small to large.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A balloon changes from small to large.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A balloon changes from small to large.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A balloon changes from large to small.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A balloon changes from large to small.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A balloon changes from large to small.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A mountain erodes and changes from large to small.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A mountain erodes and changes from large to small.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A mountain erodes and changes from large to small.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A snowman changes from large to small.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A snowman changes from large to small.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A snowman changes from large to small.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A tree stump changes from small to large as it decays.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A tree stump changes from small to large as it decays.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A tree stump changes from small to large as it decays.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A sandcastle changes from small to large.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A sandcastle changes from small to large.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A sandcastle changes from small to large.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A sponge changes from small to large as it absorbs water.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A sponge changes from small to large as it absorbs water.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A sponge changes from small to large as it absorbs water.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A cloud changes from small to large as it gathers moisture.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A cloud changes from small to large as it gathers moisture.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A cloud changes from small to large as it gathers moisture.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A cloud changes from large to small as it gathers moisture.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A cloud changes from large to small as it gathers moisture.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A cloud changes from large to small as it gathers moisture.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A sculpture changes from large to small as it\u2019s carved.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A sculpture changes from large to small as it\u2019s carved.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A sculpture changes from large to small as it\u2019s carved.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A puddle changes from small to large as rain continues to fall.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A puddle changes from small to large as rain continues to fall.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/A puddle changes from small to large as rain continues to fall.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/An ant gradually grow big.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/An ant gradually grow big.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/An ant gradually grow big.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The wooden wheel turned into a metal wheel.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The wooden wheel turned into a metal wheel.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The wooden wheel turned into a metal wheel.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The plastic toy transformed into a glass toy.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The plastic toy transformed into a glass toy.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The plastic toy transformed into a glass toy.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The wooden floor turned into a metal floor.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The wooden floor turned into a metal floor.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The wooden floor turned into a metal floor.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The glass car window changed into a wooden car window.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The glass car window changed into a wooden car window.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The glass car window changed into a wooden car window.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The plastic water cup turned into a metal water cup.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The plastic water cup turned into a metal water cup.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The plastic water cup turned into a metal water cup.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The wooden door handle transformed into a plastic door handle.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The wooden door handle transformed into a plastic door handle.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The wooden door handle transformed into a plastic door handle.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The glass window turned into a metal window.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The glass window turned into a metal window.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The glass window turned into a metal window.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The plastic seat turned into a wooden seat.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The plastic seat turned into a wooden seat.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The plastic seat turned into a wooden seat.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The wooden car body turned into a metal car body.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The wooden car body turned into a metal car body.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The wooden car body turned into a metal car body.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The glass bottle turned into a wooden bottle.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The glass bottle turned into a wooden bottle.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The glass bottle turned into a wooden bottle.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The plastic utensils turned into glass utensils.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The plastic utensils turned into glass utensils.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The plastic utensils turned into glass utensils.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The wooden frame transformed into a metal frame.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The wooden frame transformed into a metal frame.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The wooden frame transformed into a metal frame.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The plastic boat hull turned into a wooden boat hull.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The plastic boat hull turned into a wooden boat hull.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The plastic boat hull turned into a wooden boat hull.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The glass tabletop changed into a wooden tabletop.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The glass tabletop changed into a wooden tabletop.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The glass tabletop changed into a wooden tabletop.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The wooden furniture turned into plastic furniture.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The wooden furniture turned into plastic furniture.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The wooden furniture turned into plastic furniture.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The glass car light turned into a plastic car light.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The glass car light turned into a plastic car light.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The glass car light turned into a plastic car light.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The wooden staircase turned into a metal staircase.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The wooden staircase turned into a metal staircase.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The wooden staircase turned into a metal staircase.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The plastic bottle cap turned into a glass bottle cap.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The plastic bottle cap turned into a glass bottle cap.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The plastic bottle cap turned into a glass bottle cap.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The wooden stair railing transformed into a plastic railing.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The wooden stair railing transformed into a plastic railing.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The wooden stair railing transformed into a plastic railing.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The glass door turned into a metal door.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The glass door turned into a metal door.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The glass door turned into a metal door.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The plastic door transformed into a wooden door.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The plastic door transformed into a wooden door.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The plastic door transformed into a wooden door.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The wooden toy turned into a glass toy.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The wooden toy turned into a glass toy.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The wooden toy turned into a glass toy.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The plastic car shell changed into a metal car shell.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The plastic car shell changed into a metal car shell.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The plastic car shell changed into a metal car shell.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The glass mirror transformed into a wooden mirror.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The glass mirror transformed into a wooden mirror.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Dynamic_Attribute/The glass mirror transformed into a wooden mirror.-2.mp4",
+                "video_results": 0
+            }
+        ]
+    ]
+}

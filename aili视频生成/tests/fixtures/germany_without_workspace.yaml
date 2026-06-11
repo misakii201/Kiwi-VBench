@@ -1,0 +1,8 @@
+region: eu-central-1
+api_key: sk-test
+variants:
+  - resolution: 720P
+    ratio: "16:9"
+jobs:
+  - id: shot
+    prompt: "篮球三分球"

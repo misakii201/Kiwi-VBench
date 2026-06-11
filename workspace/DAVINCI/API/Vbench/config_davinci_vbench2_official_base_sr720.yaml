@@ -1,0 +1,41 @@
+# 官方 daVinci base 权重 + 540p_sr，竖屏近 720P（704×1280），与 config_davinci_vbench2.yaml 两阶段参数一致；
+# DiT 从 base 分片目录整模加载（checkpoint_path 为目录、非 .pt）。
+# 另一台服务器上请按需修改：model 下路径、vbench2.prompts_*、output_dir、parallel.gpus。
+
+model:
+  checkpoint_path: /kwkj-k8s/davinci/LJH/models/daVinci-MagiHuman/base
+  base_ckpt_dir: /kwkj-k8s/davinci/LJH/models/daVinci-MagiHuman/base
+  config_load_path: /kwkj-k8s/YANG_LTX/workspace/DAVINCI/example/base/config.json
+
+params:
+  seconds: 5
+  br_width: 352
+  br_height: 640
+  fps: 25
+  num_inference_steps: 32
+  cfg_number: 2
+  t2v_freeze_audio: true
+
+  use_sr: true
+  sr_model_path: /kwkj-k8s/davinci/LJH/models/daVinci-MagiHuman/540p_sr
+  sr_width: 704
+  sr_height: 1280
+  sr_num_inference_steps: 5
+  sr_cfg_number: 1
+  output_width: null
+  output_height: null
+  output_upsample_mode: bicubic
+
+vbench2:
+  prompts_dir: /kwkj-k8s/YANG_LTX/workspace/VBench/VBench-2.0/prompts/prompt
+  prompts_aug_dir: /kwkj-k8s/YANG_LTX/workspace/VBench/VBench-2.0/prompts/prompt_aug/VBench2_aug_prompt
+  output_dir: /kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280
+  dimensions: []
+  limit_prompts: 0
+  base_seed: 521
+  parallel:
+    gpus: "0,1,2,3,4,5,6,7"
+    per_gpu_workers: 1
+    # 与本机微调 SR 任务错开端口时可改（多机并行一般不冲突）
+    base_master_port: 6220
+    max_worker_restarts: 5

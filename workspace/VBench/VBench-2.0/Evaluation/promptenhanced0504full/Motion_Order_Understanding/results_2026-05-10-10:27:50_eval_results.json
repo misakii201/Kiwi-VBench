@@ -1,0 +1,1195 @@
+{
+    "Motion_Order_Understanding": [
+        0.3501683501683502,
+        [
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is sitting on the couch, then suddenly they get up and start sweeping the floor.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is sitting on the couch, then suddenly they get up and start sweeping the floor.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is sitting on the couch, then suddenly they get up and start sweeping the floor.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is playing with a ball, then it suddenly starts lying down on the carpet.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is playing with a ball, then it suddenly starts lying down on the carpet.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is playing with a ball, then it suddenly starts lying down on the carpet.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is cooking dinner, then they suddenly start organizing the pantry.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is cooking dinner, then they suddenly start organizing the pantry.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is cooking dinner, then they suddenly start organizing the pantry.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A cat is watching birds through the window, then it suddenly starts grooming itself.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A cat is watching birds through the window, then it suddenly starts grooming itself.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A cat is watching birds through the window, then it suddenly starts grooming itself.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is typing on a keyboard, then they suddenly get up and start making the bed.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is typing on a keyboard, then they suddenly get up and start making the bed.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is typing on a keyboard, then they suddenly get up and start making the bed.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is trotting in the field, then it suddenly starts drinking from a stream.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is trotting in the field, then it suddenly starts drinking from a stream.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is trotting in the field, then it suddenly starts drinking from a stream.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is drinking a glass of water, then they suddenly start cleaning the windows.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is drinking a glass of water, then they suddenly start cleaning the windows.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is drinking a glass of water, then they suddenly start cleaning the windows.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is sitting in the yard, then it suddenly starts running in circles.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is sitting in the yard, then it suddenly starts running in circles.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is sitting in the yard, then it suddenly starts running in circles.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is reading a book, then they suddenly start folding laundry.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is reading a book, then they suddenly start folding laundry.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is reading a book, then they suddenly start folding laundry.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A cat is lying in the sun, then it suddenly starts chasing its tail.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A cat is lying in the sun, then it suddenly starts chasing its tail.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A cat is lying in the sun, then it suddenly starts chasing its tail.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is watching TV, then they suddenly get up and start washing dishes.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is watching TV, then they suddenly get up and start washing dishes.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is watching TV, then they suddenly get up and start washing dishes.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A bird is perched on a branch, then it suddenly flies down to the ground.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A bird is perched on a branch, then it suddenly flies down to the ground.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A bird is perched on a branch, then it suddenly flies down to the ground.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is checking their phone, then they suddenly start watering the plants.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is checking their phone, then they suddenly start watering the plants.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is checking their phone, then they suddenly start watering the plants.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is grazing in the field, then it suddenly starts running across the meadow.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is grazing in the field, then it suddenly starts running across the meadow.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is grazing in the field, then it suddenly starts running across the meadow.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is eating a sandwich, then they suddenly start organizing the bookshelf.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is eating a sandwich, then they suddenly start organizing the bookshelf.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is eating a sandwich, then they suddenly start organizing the bookshelf.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is barking at a stranger, then it suddenly starts wagging its tail.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is barking at a stranger, then it suddenly starts wagging its tail.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is barking at a stranger, then it suddenly starts wagging its tail.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is sitting in a chair, then they suddenly get up and start stretching.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is sitting in a chair, then they suddenly get up and start stretching.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is sitting in a chair, then they suddenly get up and start stretching.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A cat is playing with a toy, then it suddenly jumps onto a shelf.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A cat is playing with a toy, then it suddenly jumps onto a shelf.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A cat is playing with a toy, then it suddenly jumps onto a shelf.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is preparing a salad, then they suddenly start rearranging the furniture.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is preparing a salad, then they suddenly start rearranging the furniture.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is preparing a salad, then they suddenly start rearranging the furniture.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is standing still, then it suddenly starts trotting around in a circle.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is standing still, then it suddenly starts trotting around in a circle.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is standing still, then it suddenly starts trotting around in a circle.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is talking on the phone, then they suddenly start folding paper airplanes.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is talking on the phone, then they suddenly start folding paper airplanes.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is talking on the phone, then they suddenly start folding paper airplanes.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is playing with a stick, then it suddenly starts digging a hole.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is playing with a stick, then it suddenly starts digging a hole.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is playing with a stick, then it suddenly starts digging a hole.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is cleaning the kitchen, then they suddenly start mopping the floor.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is cleaning the kitchen, then they suddenly start mopping the floor.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is cleaning the kitchen, then they suddenly start mopping the floor.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A cat is sitting by the door, then it suddenly starts chasing a fly.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A cat is sitting by the door, then it suddenly starts chasing a fly.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A cat is sitting by the door, then it suddenly starts chasing a fly.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is writing an email, then they suddenly get up and start baking cookies.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is writing an email, then they suddenly get up and start baking cookies.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is writing an email, then they suddenly get up and start baking cookies.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A bird is pecking at the ground, then it suddenly flies into the tree.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A bird is pecking at the ground, then it suddenly flies into the tree.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A bird is pecking at the ground, then it suddenly flies into the tree.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is sitting at a desk, then they suddenly start making coffee.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is sitting at a desk, then they suddenly start making coffee.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is sitting at a desk, then they suddenly start making coffee.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is running in the field, then it suddenly starts walking calmly.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is running in the field, then it suddenly starts walking calmly.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is running in the field, then it suddenly starts walking calmly.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is sleeping on the couch, then it suddenly gets up and starts wagging its tail.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is sleeping on the couch, then it suddenly gets up and starts wagging its tail.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is sleeping on the couch, then it suddenly gets up and starts wagging its tail.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is washing their hands, then they suddenly start arranging the pillows on the couch.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is washing their hands, then they suddenly start arranging the pillows on the couch.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is washing their hands, then they suddenly start arranging the pillows on the couch.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is exercising, then they suddenly start making lunch.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is exercising, then they suddenly start making lunch.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is exercising, then they suddenly start making lunch.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A cat is chasing a laser pointer, then it suddenly sits down and starts licking its paws.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A cat is chasing a laser pointer, then it suddenly sits down and starts licking its paws.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A cat is chasing a laser pointer, then it suddenly sits down and starts licking its paws.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is running around the yard, then it suddenly stops and lies down in the shade.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is running around the yard, then it suddenly stops and lies down in the shade.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is running around the yard, then it suddenly stops and lies down in the shade.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is organizing their closet, then they suddenly start tidying the garage.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is organizing their closet, then they suddenly start tidying the garage.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is organizing their closet, then they suddenly start tidying the garage.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is walking slowly, then it suddenly starts trotting.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is walking slowly, then it suddenly starts trotting.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is walking slowly, then it suddenly starts trotting.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is sitting at the table, then they suddenly start drawing on a notepad.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is sitting at the table, then they suddenly start drawing on a notepad.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is sitting at the table, then they suddenly start drawing on a notepad.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is drinking tea, then they suddenly start folding the laundry.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is drinking tea, then they suddenly start folding the laundry.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is drinking tea, then they suddenly start folding the laundry.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A cat is hiding under the table, then it suddenly jumps out and starts scratching the furniture.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A cat is hiding under the table, then it suddenly jumps out and starts scratching the furniture.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A cat is hiding under the table, then it suddenly jumps out and starts scratching the furniture.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is watching a movie, then they suddenly get up and start sweeping the porch.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is watching a movie, then they suddenly get up and start sweeping the porch.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is watching a movie, then they suddenly get up and start sweeping the porch.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A bird is perched on a fence, then it suddenly flies off to the tree.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A bird is perched on a fence, then it suddenly flies off to the tree.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A bird is perched on a fence, then it suddenly flies off to the tree.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is eating lunch, then they suddenly start cleaning the car.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is eating lunch, then they suddenly start cleaning the car.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is eating lunch, then they suddenly start cleaning the car.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is sitting at a desk, then they suddenly get up and start doing push-ups.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is sitting at a desk, then they suddenly get up and start doing push-ups.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is sitting at a desk, then they suddenly get up and start doing push-ups.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is sitting by the door, then it suddenly starts running in circles.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is sitting by the door, then it suddenly starts running in circles.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is sitting by the door, then it suddenly starts running in circles.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is playing a game on their phone, then they suddenly start cleaning the bathroom.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is playing a game on their phone, then they suddenly start cleaning the bathroom.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is playing a game on their phone, then they suddenly start cleaning the bathroom.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A cat is watching outside, then it suddenly starts stretching.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A cat is watching outside, then it suddenly starts stretching.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A cat is watching outside, then it suddenly starts stretching.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is folding towels, then they suddenly start painting a picture.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is folding towels, then they suddenly start painting a picture.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is folding towels, then they suddenly start painting a picture.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is running through the park, then it suddenly starts jumping over logs.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is running through the park, then it suddenly starts jumping over logs.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is running through the park, then it suddenly starts jumping over logs.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is brushing their teeth, then they suddenly start making breakfast.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is brushing their teeth, then they suddenly start making breakfast.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is brushing their teeth, then they suddenly start making breakfast.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is standing in the stable, then it suddenly starts chewing hay.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is standing in the stable, then it suddenly starts chewing hay.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is standing in the stable, then it suddenly starts chewing hay.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is sitting at the kitchen table, then they suddenly get up and start doing the dishes.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is sitting at the kitchen table, then they suddenly get up and start doing the dishes.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is sitting at the kitchen table, then they suddenly get up and start doing the dishes.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A bird is resting in its nest, then it suddenly flies out to catch insects.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A bird is resting in its nest, then it suddenly flies out to catch insects.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A bird is resting in its nest, then it suddenly flies out to catch insects.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is drinking coffee, then they suddenly get up and start sweeping the garage.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is drinking coffee, then they suddenly get up and start sweeping the garage.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is drinking coffee, then they suddenly get up and start sweeping the garage.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is grazing near a fence, then it suddenly starts running across the field.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is grazing near a fence, then it suddenly starts running across the field.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is grazing near a fence, then it suddenly starts running across the field.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A cat is curled up on the couch, then it suddenly jumps to the window sill.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A cat is curled up on the couch, then it suddenly jumps to the window sill.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A cat is curled up on the couch, then it suddenly jumps to the window sill.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is texting, then they suddenly get up and start vacuuming the floor.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is texting, then they suddenly get up and start vacuuming the floor.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is texting, then they suddenly get up and start vacuuming the floor.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is digging a hole in the yard, then it suddenly stops and starts licking its paw.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is digging a hole in the yard, then it suddenly stops and starts licking its paw.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is digging a hole in the yard, then it suddenly stops and starts licking its paw.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is reading the news, then they suddenly start watering the plants.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is reading the news, then they suddenly start watering the plants.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is reading the news, then they suddenly start watering the plants.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A cat is playing with a ball of yarn, then it suddenly starts lying down to rest.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A cat is playing with a ball of yarn, then it suddenly starts lying down to rest.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A cat is playing with a ball of yarn, then it suddenly starts lying down to rest.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is sitting in a chair, then they suddenly stand up and start stretching.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is sitting in a chair, then they suddenly stand up and start stretching.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is sitting in a chair, then they suddenly stand up and start stretching.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is lying on the couch, then it suddenly jumps off and starts running around.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is lying on the couch, then it suddenly jumps off and starts running around.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is lying on the couch, then it suddenly jumps off and starts running around.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is washing the dishes, then they suddenly start sweeping the floor.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is washing the dishes, then they suddenly start sweeping the floor.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is washing the dishes, then they suddenly start sweeping the floor.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is standing in the barn, then it suddenly starts shaking its mane.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is standing in the barn, then it suddenly starts shaking its mane.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is standing in the barn, then it suddenly starts shaking its mane.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is walking along a trail, then it suddenly starts galloping.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is walking along a trail, then it suddenly starts galloping.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is walking along a trail, then it suddenly starts galloping.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is scrolling through their phone, then they suddenly get up and start organizing the kitchen.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is scrolling through their phone, then they suddenly get up and start organizing the kitchen.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is scrolling through their phone, then they suddenly get up and start organizing the kitchen.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is checking their email, then they suddenly start making a phone call.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is checking their email, then they suddenly start making a phone call.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is checking their email, then they suddenly start making a phone call.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is playing in the yard, then it suddenly starts laying on the porch.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is playing in the yard, then it suddenly starts laying on the porch.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is playing in the yard, then it suddenly starts laying on the porch.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A cat is playing with a toy mouse, then it suddenly starts running up the stairs.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A cat is playing with a toy mouse, then it suddenly starts running up the stairs.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A cat is playing with a toy mouse, then it suddenly starts running up the stairs.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is sitting at a desk, then they suddenly start cleaning the floor.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is sitting at a desk, then they suddenly start cleaning the floor.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is sitting at a desk, then they suddenly start cleaning the floor.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is standing by the fence, then it suddenly starts walking to the barn.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is standing by the fence, then it suddenly starts walking to the barn.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is standing by the fence, then it suddenly starts walking to the barn.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is drinking water, then they suddenly start organizing their desk.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is drinking water, then they suddenly start organizing their desk.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is drinking water, then they suddenly start organizing their desk.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is lying in the sun, then it suddenly jumps up and starts playing with its owner.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is lying in the sun, then it suddenly jumps up and starts playing with its owner.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is lying in the sun, then it suddenly jumps up and starts playing with its owner.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is working on a project, then they suddenly start cooking dinner.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is working on a project, then they suddenly start cooking dinner.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is working on a project, then they suddenly start cooking dinner.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is eating dinner, then they suddenly start washing the dishes.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is eating dinner, then they suddenly start washing the dishes.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is eating dinner, then they suddenly start washing the dishes.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is barking at a bird, then it suddenly stops and starts sitting quietly.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is barking at a bird, then it suddenly stops and starts sitting quietly.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is barking at a bird, then it suddenly stops and starts sitting quietly.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is folding clothes, then they suddenly get up and start reading a book.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is folding clothes, then they suddenly get up and start reading a book.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is folding clothes, then they suddenly get up and start reading a book.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is running along the beach, then it suddenly stops and starts grazing.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is running along the beach, then it suddenly stops and starts grazing.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is running along the beach, then it suddenly stops and starts grazing.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is sitting on a chair, then they suddenly start cleaning the desk.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is sitting on a chair, then they suddenly start cleaning the desk.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is sitting on a chair, then they suddenly start cleaning the desk.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is resting on the bed, then it suddenly gets up and starts playing with a toy.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is resting on the bed, then it suddenly gets up and starts playing with a toy.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is resting on the bed, then it suddenly gets up and starts playing with a toy.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is drinking tea, then they suddenly start making a phone call.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is drinking tea, then they suddenly start making a phone call.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is drinking tea, then they suddenly start making a phone call.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is eating grass, then it suddenly starts trotting around in a circle.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is eating grass, then it suddenly starts trotting around in a circle.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is eating grass, then it suddenly starts trotting around in a circle.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is watching a video, then they suddenly get up and start sweeping the yard.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is watching a video, then they suddenly get up and start sweeping the yard.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is watching a video, then they suddenly get up and start sweeping the yard.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is running through the house, then it suddenly jumps onto the couch.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is running through the house, then it suddenly jumps onto the couch.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is running through the house, then it suddenly jumps onto the couch.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is putting on shoes, then they suddenly start making a sandwich.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is putting on shoes, then they suddenly start making a sandwich.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is putting on shoes, then they suddenly start making a sandwich.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A cat is grooming itself, then it suddenly starts chasing a bug.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A cat is grooming itself, then it suddenly starts chasing a bug.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A cat is grooming itself, then it suddenly starts chasing a bug.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is walking in the field, then it suddenly starts galloping in the distance.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is walking in the field, then it suddenly starts galloping in the distance.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is walking in the field, then it suddenly starts galloping in the distance.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is checking their calendar, then they suddenly get up and start folding clothes.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is checking their calendar, then they suddenly get up and start folding clothes.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is checking their calendar, then they suddenly get up and start folding clothes.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is barking at the mailman, then it suddenly starts lying down on the mat.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is barking at the mailman, then it suddenly starts lying down on the mat.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is barking at the mailman, then it suddenly starts lying down on the mat.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is doing yoga, then they suddenly get up and start making dinner.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is doing yoga, then they suddenly get up and start making dinner.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is doing yoga, then they suddenly get up and start making dinner.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is grazing on grass, then it suddenly starts trotting to the barn.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is grazing on grass, then it suddenly starts trotting to the barn.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is grazing on grass, then it suddenly starts trotting to the barn.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A cat is sitting on the windowsill, then it suddenly jumps down and starts exploring the room.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A cat is sitting on the windowsill, then it suddenly jumps down and starts exploring the room.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A cat is sitting on the windowsill, then it suddenly jumps down and starts exploring the room.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is organizing their desk, then they suddenly start doing the dishes.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is organizing their desk, then they suddenly start doing the dishes.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is organizing their desk, then they suddenly start doing the dishes.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is running in the yard, then it suddenly starts sitting under a tree.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is running in the yard, then it suddenly starts sitting under a tree.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is running in the yard, then it suddenly starts sitting under a tree.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is getting ready for work, then they suddenly start cleaning the kitchen.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is getting ready for work, then they suddenly start cleaning the kitchen.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is getting ready for work, then they suddenly start cleaning the kitchen.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A cat is sitting on a chair, then it suddenly starts playing with a feather toy.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A cat is sitting on a chair, then it suddenly starts playing with a feather toy.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A cat is sitting on a chair, then it suddenly starts playing with a feather toy.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is drinking a smoothie, then they suddenly start folding clothes.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is drinking a smoothie, then they suddenly start folding clothes.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is drinking a smoothie, then they suddenly start folding clothes.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is trotting around a stable, then it suddenly stops to drink water.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is trotting around a stable, then it suddenly stops to drink water.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A horse is trotting around a stable, then it suddenly stops to drink water.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is reading a magazine, then they suddenly get up and start organizing the closet.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is reading a magazine, then they suddenly get up and start organizing the closet.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is reading a magazine, then they suddenly get up and start organizing the closet.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is listening to music, then they suddenly start washing the dishes.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is listening to music, then they suddenly start washing the dishes.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A person is listening to music, then they suddenly start washing the dishes.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is chasing a ball, then it suddenly stops and lies down to rest.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is chasing a ball, then it suddenly stops and lies down to rest.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Order_Understanding/A dog is chasing a ball, then it suddenly stops and lies down to rest.-2.mp4",
+                "video_results": 1
+            }
+        ]
+    ]
+}

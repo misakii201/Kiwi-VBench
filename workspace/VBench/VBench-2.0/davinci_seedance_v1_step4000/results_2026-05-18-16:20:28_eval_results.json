@@ -1,0 +1,47 @@
+{
+    "Diversity": [
+        0.29216495603322984,
+        [
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Diversity/A wooden toy is placed gently on the surface of a small bowl of water.-0.mp4",
+                "video_results": 0.12917783856391907
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Diversity/A river changes from blue to brown.-0.mp4",
+                "video_results": 0.2125251740217209
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Diversity/A dog is on the left of an apple, then the dog runs to the front of the apple.-0.mp4",
+                "video_results": 0.2567954361438751
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Diversity/A man is playing basketball.-0.mp4",
+                "video_results": 0.47050076723098755
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Diversity/The camera circles around. Garden.-0.mp4",
+                "video_results": 0.2671935260295868
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Diversity/A shark and a giraffe create a new species.-0.mp4",
+                "video_results": 0.32450562715530396
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Diversity/A dog is sitting in the yard, then it suddenly starts running in circles.-0.mp4",
+                "video_results": 0.3774992823600769
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Diversity/A person is eating ice cream.-0.mp4",
+                "video_results": 0.3673230707645416
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Diversity/One person picks out clothes for another person.-0.mp4",
+                "video_results": 0.24327245354652405
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Diversity/In a distant mountain range, there was said to be a legendary red dragon. Whenever it hatched a golden egg, the world\u2019s wealth and fortune would explode. A young adventurer named L-0.mp4",
+                "video_results": 0.27285638451576233
+            }
+        ]
+    ]
+}

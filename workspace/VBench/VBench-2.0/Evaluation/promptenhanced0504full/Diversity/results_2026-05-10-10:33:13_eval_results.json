@@ -1,0 +1,47 @@
+{
+    "Diversity": [
+        0.46029821038246155,
+        [
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A wooden toy is placed gently on the surface of a small bowl of water.-0.mp4",
+                "video_results": 0.3738711178302765
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A river changes from blue to brown.-0.mp4",
+                "video_results": 0.39026886224746704
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is on the left of an apple, then the dog runs to the front of the apple.-0.mp4",
+                "video_results": 0.48528918623924255
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A man is playing basketball.-0.mp4",
+                "video_results": 0.42660099267959595
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/The camera circles around. Garden.-0.mp4",
+                "video_results": 0.4839448034763336
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A shark and a giraffe create a new species.-0.mp4",
+                "video_results": 0.5063980221748352
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is sitting in the yard, then it suddenly starts running in circles.-0.mp4",
+                "video_results": 0.48943856358528137
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A person is eating ice cream.-0.mp4",
+                "video_results": 0.38959142565727234
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/One person picks out clothes for another person.-0.mp4",
+                "video_results": 0.42623719573020935
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/In a distant mountain range, there was said to be a legendary red dragon. Whenever it hatched a golden egg, the world\u2019s wealth and fortune would explode. A young adventurer named L-0.mp4",
+                "video_results": 0.6313419342041016
+            }
+        ]
+    ]
+}

@@ -1,0 +1,13 @@
+region: cn-beijing
+model: happyhorse-1.0-t2v
+rps: 20
+poll_interval_seconds: 15
+output_dir: outputs
+variants:
+  - resolution: 720P
+    ratio: "16:9"
+jobs:
+  - id: fast_break
+    prompt: "篮球快攻上篮，电影感镜头"
+    duration: 5
+    watermark: false

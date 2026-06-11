@@ -1,0 +1,27 @@
+region: cn-beijing
+model: happyhorse-1.0-t2v
+rps: 20
+poll_interval_seconds: 15
+output_dir: outputs
+
+variants:
+  - resolution: 720P
+    ratio: "16:9"
+  - resolution: 1080P
+    ratio: "9:16"
+  - resolution: 1080P
+    ratio: "1:1"
+
+jobs:
+  - id: fast_break
+    prompt: "一名篮球运动员在室内球馆完成高速快攻上篮，镜头跟随奔跑，电影感灯光，真实运动摄影风格。"
+    duration: 5
+    watermark: false
+  - id: three_point
+    prompt: "篮球后卫在终场前投出压哨三分球，观众席灯光闪烁，慢动作展现篮球划过空中的弧线。"
+    duration: 5
+    watermark: false
+  - id: street_dunk
+    prompt: "黄昏街头篮球场，一名球员起跳扣篮，地面有雨后反光，动感运镜，写实质感。"
+    duration: 5
+    watermark: false

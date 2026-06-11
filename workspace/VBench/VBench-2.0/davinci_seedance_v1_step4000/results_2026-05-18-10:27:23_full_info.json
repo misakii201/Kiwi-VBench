@@ -1,0 +1,1298 @@
+[
+    {
+        "prompt_en": "Garden, zoom in.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "zoom_in",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Garden, zoom in.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Garden, zoom in.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Garden, zoom in.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Garden, zoom out.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "zoom_out",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Garden, zoom out.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Garden, zoom out.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Garden, zoom out.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Garden, tilt up.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "tilt_up",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Garden, tilt up.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Garden, tilt up.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Garden, tilt up.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Garden, tilt down.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "tilt_down",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Garden, tilt down.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Garden, tilt down.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Garden, tilt down.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Garden, pan left.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "pan_left",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Garden, pan left.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Garden, pan left.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Garden, pan left.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Garden, pan right.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "pan_right",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Garden, pan right.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Garden, pan right.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Garden, pan right.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "The camera movement is static. Garden, static shot, the camera is fixed.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "static",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera movement is static. Garden, static shot, the camera is fixed.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera movement is static. Garden, static shot, the camera is fixed.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera movement is static. Garden, static shot, the camera is fixed.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "The camera orbits around in a clockwise direction. Garden.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "orbits",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera orbits around in a clockwise direction. Garden.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera orbits around in a clockwise direction. Garden.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera orbits around in a clockwise direction. Garden.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Garden, First-person perspective, oblique shot, airborne dolly movement.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "oblique",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Garden, First-person perspective, oblique shot, airborne dolly movement.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Garden, First-person perspective, oblique shot, airborne dolly movement.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Garden, First-person perspective, oblique shot, airborne dolly movement.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Pyramid, zoom in.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "zoom_in",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Pyramid, zoom in.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Pyramid, zoom in.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Pyramid, zoom in.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Pyramid, zoom out.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "zoom_out",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Pyramid, zoom out.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Pyramid, zoom out.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Pyramid, zoom out.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Pyramid, tilt up.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "tilt_up",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Pyramid, tilt up.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Pyramid, tilt up.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Pyramid, tilt up.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Pyramid, tilt down.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "tilt_down",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Pyramid, tilt down.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Pyramid, tilt down.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Pyramid, tilt down.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Pyramid, pan left.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "pan_left",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Pyramid, pan left.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Pyramid, pan left.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Pyramid, pan left.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Pyramid, pan right.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "pan_right",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Pyramid, pan right.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Pyramid, pan right.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Pyramid, pan right.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "The camera movement is static. Pyramid, static shot, the camera is fixed.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "static",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera movement is static. Pyramid, static shot, the camera is fixed.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera movement is static. Pyramid, static shot, the camera is fixed.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera movement is static. Pyramid, static shot, the camera is fixed.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "The camera orbits around in a clockwise direction. Pyramid.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "orbits",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera orbits around in a clockwise direction. Pyramid.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera orbits around in a clockwise direction. Pyramid.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera orbits around in a clockwise direction. Pyramid.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Pyramid, First-person perspective, oblique shot, airborne dolly movement.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "oblique",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Pyramid, First-person perspective, oblique shot, airborne dolly movement.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Pyramid, First-person perspective, oblique shot, airborne dolly movement.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Pyramid, First-person perspective, oblique shot, airborne dolly movement.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Mount Fuji, zoom in.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "zoom_in",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Mount Fuji, zoom in.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Mount Fuji, zoom in.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Mount Fuji, zoom in.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Mount Fuji, zoom out.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "zoom_out",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Mount Fuji, zoom out.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Mount Fuji, zoom out.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Mount Fuji, zoom out.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Mount Fuji, tilt up.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "tilt_up",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Mount Fuji, tilt up.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Mount Fuji, tilt up.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Mount Fuji, tilt up.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Mount Fuji, tilt down.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "tilt_down",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Mount Fuji, tilt down.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Mount Fuji, tilt down.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Mount Fuji, tilt down.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Mount Fuji, pan left.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "pan_left",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Mount Fuji, pan left.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Mount Fuji, pan left.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Mount Fuji, pan left.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Mount Fuji, pan right.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "pan_right",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Mount Fuji, pan right.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Mount Fuji, pan right.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Mount Fuji, pan right.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "The camera movement is static. Mount Fuji, static shot, the camera is fixed.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "static",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera movement is static. Mount Fuji, static shot, the camera is fixed.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera movement is static. Mount Fuji, static shot, the camera is fixed.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera movement is static. Mount Fuji, static shot, the camera is fixed.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "The camera orbits around in a clockwise direction. Mount Fuji.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "orbits",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera orbits around in a clockwise direction. Mount Fuji.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera orbits around in a clockwise direction. Mount Fuji.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera orbits around in a clockwise direction. Mount Fuji.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Mount Fuji, First-person perspective, oblique shot, airborne dolly movement.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "oblique",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Mount Fuji, First-person perspective, oblique shot, airborne dolly movement.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Mount Fuji, First-person perspective, oblique shot, airborne dolly movement.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Mount Fuji, First-person perspective, oblique shot, airborne dolly movement.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Blue Lagoon, zoom in.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "zoom_in",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Blue Lagoon, zoom in.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Blue Lagoon, zoom in.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Blue Lagoon, zoom in.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Blue Lagoon, zoom out.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "zoom_out",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Blue Lagoon, zoom out.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Blue Lagoon, zoom out.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Blue Lagoon, zoom out.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Blue Lagoon, tilt up.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "tilt_up",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Blue Lagoon, tilt up.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Blue Lagoon, tilt up.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Blue Lagoon, tilt up.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Blue Lagoon, tilt down.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "tilt_down",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Blue Lagoon, tilt down.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Blue Lagoon, tilt down.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Blue Lagoon, tilt down.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Blue Lagoon, pan left.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "pan_left",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Blue Lagoon, pan left.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Blue Lagoon, pan left.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Blue Lagoon, pan left.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Blue Lagoon, pan right.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "pan_right",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Blue Lagoon, pan right.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Blue Lagoon, pan right.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Blue Lagoon, pan right.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "The camera movement is static. Blue Lagoon, static shot, the camera is fixed.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "static",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera movement is static. Blue Lagoon, static shot, the camera is fixed.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera movement is static. Blue Lagoon, static shot, the camera is fixed.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera movement is static. Blue Lagoon, static shot, the camera is fixed.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "The camera orbits around in a clockwise direction. Blue Lagoon.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "orbits",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera orbits around in a clockwise direction. Blue Lagoon.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera orbits around in a clockwise direction. Blue Lagoon.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera orbits around in a clockwise direction. Blue Lagoon.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Blue Lagoon, First-person perspective, oblique shot, airborne dolly movement.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "oblique",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Blue Lagoon, First-person perspective, oblique shot, airborne dolly movement.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Blue Lagoon, First-person perspective, oblique shot, airborne dolly movement.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Blue Lagoon, First-person perspective, oblique shot, airborne dolly movement.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Table, zoom in.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "zoom_in",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Table, zoom in.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Table, zoom in.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Table, zoom in.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Table, zoom out.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "zoom_out",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Table, zoom out.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Table, zoom out.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Table, zoom out.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Table, tilt up.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "tilt_up",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Table, tilt up.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Table, tilt up.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Table, tilt up.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Table, tilt down.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "tilt_down",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Table, tilt down.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Table, tilt down.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Table, tilt down.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Table, pan left.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "pan_left",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Table, pan left.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Table, pan left.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Table, pan left.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Table, pan right.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "pan_right",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Table, pan right.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Table, pan right.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Table, pan right.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "The camera movement is static. Table, static shot, the camera is fixed.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "static",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera movement is static. Table, static shot, the camera is fixed.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera movement is static. Table, static shot, the camera is fixed.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera movement is static. Table, static shot, the camera is fixed.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "The camera orbits around in a clockwise direction. Table.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "orbits",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera orbits around in a clockwise direction. Table.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera orbits around in a clockwise direction. Table.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera orbits around in a clockwise direction. Table.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Table, First-person perspective, oblique shot, airborne dolly movement.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "oblique",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Table, First-person perspective, oblique shot, airborne dolly movement.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Table, First-person perspective, oblique shot, airborne dolly movement.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Table, First-person perspective, oblique shot, airborne dolly movement.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Alhambra, zoom in.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "zoom_in",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Alhambra, zoom in.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Alhambra, zoom in.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Alhambra, zoom in.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Alhambra, zoom out.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "zoom_out",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Alhambra, zoom out.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Alhambra, zoom out.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Alhambra, zoom out.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Alhambra, tilt up.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "tilt_up",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Alhambra, tilt up.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Alhambra, tilt up.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Alhambra, tilt up.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Alhambra, tilt down.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "tilt_down",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Alhambra, tilt down.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Alhambra, tilt down.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Alhambra, tilt down.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Alhambra, pan left.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "pan_left",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Alhambra, pan left.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Alhambra, pan left.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Alhambra, pan left.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Alhambra, pan right.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "pan_right",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Alhambra, pan right.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Alhambra, pan right.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Alhambra, pan right.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "The camera movement is static. Alhambra, static shot, the camera is fixed.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "static",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera movement is static. Alhambra, static shot, the camera is fixed.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera movement is static. Alhambra, static shot, the camera is fixed.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera movement is static. Alhambra, static shot, the camera is fixed.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "The camera orbits around in a clockwise direction. Alhambra.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "orbits",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera orbits around in a clockwise direction. Alhambra.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera orbits around in a clockwise direction. Alhambra.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera orbits around in a clockwise direction. Alhambra.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Alhambra, First-person perspective, oblique shot, airborne dolly movement.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "oblique",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Alhambra, First-person perspective, oblique shot, airborne dolly movement.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Alhambra, First-person perspective, oblique shot, airborne dolly movement.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Alhambra, First-person perspective, oblique shot, airborne dolly movement.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Vase, zoom in.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "zoom_in",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Vase, zoom in.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Vase, zoom in.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Vase, zoom in.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Vase, zoom out.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "zoom_out",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Vase, zoom out.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Vase, zoom out.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Vase, zoom out.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Vase, tilt up.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "tilt_up",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Vase, tilt up.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Vase, tilt up.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Vase, tilt up.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Vase, tilt down.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "tilt_down",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Vase, tilt down.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Vase, tilt down.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Vase, tilt down.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Vase, pan left.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "pan_left",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Vase, pan left.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Vase, pan left.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Vase, pan left.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Vase, pan right.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "pan_right",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Vase, pan right.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Vase, pan right.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Vase, pan right.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "The camera movement is static. Vase, static shot, the camera is fixed.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "static",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera movement is static. Vase, static shot, the camera is fixed.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera movement is static. Vase, static shot, the camera is fixed.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera movement is static. Vase, static shot, the camera is fixed.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "The camera orbits around in a clockwise direction. Vase.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "orbits",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera orbits around in a clockwise direction. Vase.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera orbits around in a clockwise direction. Vase.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera orbits around in a clockwise direction. Vase.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Vase, First-person perspective, oblique shot, airborne dolly movement.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "oblique",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Vase, First-person perspective, oblique shot, airborne dolly movement.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Vase, First-person perspective, oblique shot, airborne dolly movement.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Vase, First-person perspective, oblique shot, airborne dolly movement.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Burj Khalifa, zoom in.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "zoom_in",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Burj Khalifa, zoom in.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Burj Khalifa, zoom in.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Burj Khalifa, zoom in.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Burj Khalifa, zoom out.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "zoom_out",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Burj Khalifa, zoom out.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Burj Khalifa, zoom out.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Burj Khalifa, zoom out.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Burj Khalifa, tilt up.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "tilt_up",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Burj Khalifa, tilt up.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Burj Khalifa, tilt up.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Burj Khalifa, tilt up.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Burj Khalifa, tilt down.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "tilt_down",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Burj Khalifa, tilt down.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Burj Khalifa, tilt down.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Burj Khalifa, tilt down.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Burj Khalifa, pan left.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "pan_left",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Burj Khalifa, pan left.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Burj Khalifa, pan left.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Burj Khalifa, pan left.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Burj Khalifa, pan right.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "pan_right",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Burj Khalifa, pan right.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Burj Khalifa, pan right.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Burj Khalifa, pan right.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "The camera movement is static. Burj Khalifa, static shot, the camera is fixed.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "static",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera movement is static. Burj Khalifa, static shot, the camera is fixed.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera movement is static. Burj Khalifa, static shot, the camera is fixed.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera movement is static. Burj Khalifa, static shot, the camera is fixed.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "The camera orbits around in a clockwise direction. Burj Khalifa.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "orbits",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera orbits around in a clockwise direction. Burj Khalifa.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera orbits around in a clockwise direction. Burj Khalifa.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera orbits around in a clockwise direction. Burj Khalifa.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Burj Khalifa, First-person perspective, oblique shot, airborne dolly movement.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "oblique",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Burj Khalifa, First-person perspective, oblique shot, airborne dolly movement.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Burj Khalifa, First-person perspective, oblique shot, airborne dolly movement.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Burj Khalifa, First-person perspective, oblique shot, airborne dolly movement.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Machu Picchu, zoom in.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "zoom_in",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Machu Picchu, zoom in.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Machu Picchu, zoom in.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Machu Picchu, zoom in.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Machu Picchu, zoom out.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "zoom_out",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Machu Picchu, zoom out.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Machu Picchu, zoom out.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Machu Picchu, zoom out.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Machu Picchu, tilt up.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "tilt_up",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Machu Picchu, tilt up.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Machu Picchu, tilt up.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Machu Picchu, tilt up.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Machu Picchu, tilt down.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "tilt_down",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Machu Picchu, tilt down.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Machu Picchu, tilt down.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Machu Picchu, tilt down.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Machu Picchu, pan left.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "pan_left",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Machu Picchu, pan left.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Machu Picchu, pan left.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Machu Picchu, pan left.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Machu Picchu, pan right.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "pan_right",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Machu Picchu, pan right.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Machu Picchu, pan right.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Machu Picchu, pan right.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "The camera movement is static. Machu Picchu, static shot, the camera is fixed.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "static",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera movement is static. Machu Picchu, static shot, the camera is fixed.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera movement is static. Machu Picchu, static shot, the camera is fixed.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera movement is static. Machu Picchu, static shot, the camera is fixed.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "The camera orbits around in a clockwise direction. Machu Picchu.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "orbits",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera orbits around in a clockwise direction. Machu Picchu.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera orbits around in a clockwise direction. Machu Picchu.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera orbits around in a clockwise direction. Machu Picchu.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Machu Picchu, First-person perspective, oblique shot, airborne dolly movement.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "oblique",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Machu Picchu, First-person perspective, oblique shot, airborne dolly movement.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Machu Picchu, First-person perspective, oblique shot, airborne dolly movement.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Machu Picchu, First-person perspective, oblique shot, airborne dolly movement.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Forbidden City, zoom in.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "zoom_in",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Forbidden City, zoom in.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Forbidden City, zoom in.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Forbidden City, zoom in.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Forbidden City, zoom out.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "zoom_out",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Forbidden City, zoom out.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Forbidden City, zoom out.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Forbidden City, zoom out.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Forbidden City, tilt up.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "tilt_up",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Forbidden City, tilt up.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Forbidden City, tilt up.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Forbidden City, tilt up.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Forbidden City, tilt down.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "tilt_down",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Forbidden City, tilt down.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Forbidden City, tilt down.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Forbidden City, tilt down.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Forbidden City, pan left.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "pan_left",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Forbidden City, pan left.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Forbidden City, pan left.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Forbidden City, pan left.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Forbidden City, pan right.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "pan_right",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Forbidden City, pan right.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Forbidden City, pan right.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Forbidden City, pan right.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "The camera movement is static. Forbidden City, static shot, the camera is fixed.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "static",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera movement is static. Forbidden City, static shot, the camera is fixed.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera movement is static. Forbidden City, static shot, the camera is fixed.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera movement is static. Forbidden City, static shot, the camera is fixed.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "The camera orbits around in a clockwise direction. Forbidden City.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "orbits",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera orbits around in a clockwise direction. Forbidden City.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera orbits around in a clockwise direction. Forbidden City.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera orbits around in a clockwise direction. Forbidden City.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Forbidden City, First-person perspective, oblique shot, airborne dolly movement.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "oblique",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Forbidden City, First-person perspective, oblique shot, airborne dolly movement.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Forbidden City, First-person perspective, oblique shot, airborne dolly movement.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Forbidden City, First-person perspective, oblique shot, airborne dolly movement.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Laptop, zoom in.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "zoom_in",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Laptop, zoom in.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Laptop, zoom in.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Laptop, zoom in.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Laptop, zoom out.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "zoom_out",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Laptop, zoom out.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Laptop, zoom out.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Laptop, zoom out.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Laptop, tilt up.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "tilt_up",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Laptop, tilt up.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Laptop, tilt up.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Laptop, tilt up.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Laptop, tilt down.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "tilt_down",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Laptop, tilt down.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Laptop, tilt down.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Laptop, tilt down.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Laptop, pan left.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "pan_left",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Laptop, pan left.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Laptop, pan left.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Laptop, pan left.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Laptop, pan right.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "pan_right",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Laptop, pan right.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Laptop, pan right.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Laptop, pan right.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "The camera movement is static. Laptop, static shot, the camera is fixed.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "static",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera movement is static. Laptop, static shot, the camera is fixed.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera movement is static. Laptop, static shot, the camera is fixed.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera movement is static. Laptop, static shot, the camera is fixed.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "The camera orbits around in a clockwise direction. Laptop.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "orbits",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera orbits around in a clockwise direction. Laptop.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera orbits around in a clockwise direction. Laptop.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera orbits around in a clockwise direction. Laptop.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Laptop, First-person perspective, oblique shot, airborne dolly movement.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "oblique",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Laptop, First-person perspective, oblique shot, airborne dolly movement.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Laptop, First-person perspective, oblique shot, airborne dolly movement.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Laptop, First-person perspective, oblique shot, airborne dolly movement.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Watch, zoom in.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "zoom_in",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Watch, zoom in.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Watch, zoom in.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Watch, zoom in.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Watch, zoom out.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "zoom_out",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Watch, zoom out.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Watch, zoom out.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Watch, zoom out.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Watch, tilt up.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "tilt_up",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Watch, tilt up.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Watch, tilt up.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Watch, tilt up.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Watch, tilt down.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "tilt_down",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Watch, tilt down.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Watch, tilt down.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Watch, tilt down.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Watch, pan left.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "pan_left",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Watch, pan left.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Watch, pan left.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Watch, pan left.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Watch, pan right.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "pan_right",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Watch, pan right.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Watch, pan right.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Watch, pan right.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "The camera movement is static. Watch, static shot, the camera is fixed.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "static",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera movement is static. Watch, static shot, the camera is fixed.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera movement is static. Watch, static shot, the camera is fixed.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera movement is static. Watch, static shot, the camera is fixed.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "The camera orbits around in a clockwise direction. Watch.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "orbits",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera orbits around in a clockwise direction. Watch.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera orbits around in a clockwise direction. Watch.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/The camera orbits around in a clockwise direction. Watch.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Wristwatch, First-person perspective, oblique shot, airborne dolly movement.",
+        "dimension": [
+            "Camera_Motion"
+        ],
+        "auxiliary_info": "oblique",
+        "video_list": [
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Wristwatch, First-person perspective, oblique shot, airborne dolly movement.-0.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Wristwatch, First-person perspective, oblique shot, airborne dolly movement.-1.mp4",
+            "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Camera_Motion/Wristwatch, First-person perspective, oblique shot, airborne dolly movement.-2.mp4"
+        ]
+    }
+]

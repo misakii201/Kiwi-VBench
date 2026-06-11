@@ -1,0 +1,1171 @@
+{
+    "Multi-View_Consistency": [
+        0.1682280674911785,
+        [
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Castle, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Castle, the camera circles around.-1.mp4",
+                "video_results": 0.5952744274604611
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Castle, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Volcano, the camera circles around.-0.mp4",
+                "video_results": 0.053103383475202846
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Volcano, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Volcano, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Statue, the camera circles around.-0.mp4",
+                "video_results": 0.8481333333333334
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Statue, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Statue, the camera circles around.-2.mp4",
+                "video_results": 0.516128527603322
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Clock Tower, the camera circles around.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Clock Tower, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Clock Tower, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Playground, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Playground, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Playground, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Great Wall of China, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Great Wall of China, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Great Wall of China, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Statue of Liberty, the camera circles around.-0.mp4",
+                "video_results": 0.3419154333420885
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Statue of Liberty, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Statue of Liberty, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Taj Mahal, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Taj Mahal, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Taj Mahal, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Pyramids of Giza, the camera circles around.-0.mp4",
+                "video_results": 0.05926148883525917
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Pyramids of Giza, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Pyramids of Giza, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Golden Gate Bridge, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Golden Gate Bridge, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Golden Gate Bridge, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Mount Fuji, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Mount Fuji, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Mount Fuji, the camera circles around.-2.mp4",
+                "video_results": 0.11853370466464905
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Burj Khalifa, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Burj Khalifa, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Burj Khalifa, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Acropolis, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Acropolis, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Acropolis, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Stonehenge, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Stonehenge, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Stonehenge, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Alhambra, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Alhambra, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Alhambra, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Petra, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Petra, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Petra, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Sagrada Familia, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Sagrada Familia, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Sagrada Familia, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Mount Kilimanjaro, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Mount Kilimanjaro, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Mount Kilimanjaro, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Neuschwanstein Castle, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Neuschwanstein Castle, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Neuschwanstein Castle, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Mount Sinai, the camera circles around.-0.mp4",
+                "video_results": 0.11279999999999998
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Mount Sinai, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Mount Sinai, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Yosemite, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Yosemite, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Yosemite, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Mount Ararat, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Mount Ararat, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Mount Ararat, the camera circles around.-2.mp4",
+                "video_results": 0.4824
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Mount Roraima, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Mount Roraima, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Mount Roraima, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Machu Picchu, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Machu Picchu, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Machu Picchu, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Serengeti, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Serengeti, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Serengeti, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Ring, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Ring, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Ring, the camera circles around.-2.mp4",
+                "video_results": 0.04438095238095238
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Cone, the camera circles around.-0.mp4",
+                "video_results": 0.013714285714285715
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Cone, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Cone, the camera circles around.-2.mp4",
+                "video_results": 0.019628036043120592
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Armor, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Armor, the camera circles around.-1.mp4",
+                "video_results": 0.16990476190476192
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Armor, the camera circles around.-2.mp4",
+                "video_results": 0.14952338191904319
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Shield, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Shield, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Shield, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Snowman, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Snowman, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Snowman, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Cadillac, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Cadillac, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Cadillac, the camera circles around.-2.mp4",
+                "video_results": 0.24346666666666666
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Retro computer, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Retro computer, the camera circles around.-1.mp4",
+                "video_results": 0.0056
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Retro computer, the camera circles around.-2.mp4",
+                "video_results": 0.009714285714285713
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Dart Set, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Dart Set, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Dart Set, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Ficus Bonsai, the camera circles around.-0.mp4",
+                "video_results": 0.05999558322553413
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Ficus Bonsai, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Ficus Bonsai, the camera circles around.-2.mp4",
+                "video_results": 0.1615757575757576
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Bathroom Interior, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Bathroom Interior, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Bathroom Interior, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Coffee cup with plate, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Coffee cup with plate, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Coffee cup with plate, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. The Matrix Red Chair, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. The Matrix Red Chair, the camera circles around.-1.mp4",
+                "video_results": 0.07038885037898095
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. The Matrix Red Chair, the camera circles around.-2.mp4",
+                "video_results": 0.04054564924197821
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Astronomic Map, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Astronomic Map, the camera circles around.-1.mp4",
+                "video_results": 0.166090551691059
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Astronomic Map, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Christmas Ball, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Christmas Ball, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Christmas Ball, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Raspberry Pi Pico, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Raspberry Pi Pico, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Raspberry Pi Pico, the camera circles around.-2.mp4",
+                "video_results": 0.04255323424208083
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. New York Hot-Dog Cart, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. New York Hot-Dog Cart, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. New York Hot-Dog Cart, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Bike, the camera circles around.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Bike, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Bike, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Jukebox, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Jukebox, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Jukebox, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Airpods Max, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Airpods Max, the camera circles around.-1.mp4",
+                "video_results": 0.07813333333333333
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Airpods Max, the camera circles around.-2.mp4",
+                "video_results": 0.021333333333333333
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Chess Piece Queen, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Chess Piece Queen, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Chess Piece Queen, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Coffee Grinder, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Coffee Grinder, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Coffee Grinder, the camera circles around.-2.mp4",
+                "video_results": 0.07033333333333333
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Bread Roll, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Bread Roll, the camera circles around.-1.mp4",
+                "video_results": 0.006962962962962964
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Bread Roll, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Banana, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Banana, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Banana, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Sundae, the camera circles around.-0.mp4",
+                "video_results": 0.10177777777777777
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Sundae, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Sundae, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Jade Sword, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Jade Sword, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Jade Sword, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Mallet, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Mallet, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Mallet, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Drone, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Drone, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Drone, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Knife, the camera circles around.-0.mp4",
+                "video_results": 0.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Knife, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Knife, the camera circles around.-2.mp4",
+                "video_results": 0.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Car, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Car, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Car, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Bag, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Bag, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Bag, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Chair, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Chair, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Chair, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Sofa, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Sofa, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Sofa, the camera circles around.-2.mp4",
+                "video_results": 0.07274074074074074
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Lamp, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Lamp, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Lamp, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Watercraft, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Watercraft, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Watercraft, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Loudsspeaker, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Loudsspeaker, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Loudsspeaker, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Cabinet, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Cabinet, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Cabinet, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Telephone, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Telephone, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Telephone, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Bathtub, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Bathtub, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Bathtub, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Faucet, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Faucet, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Faucet, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Clock, the camera circles around.-0.mp4",
+                "video_results": 0.018380952380952383
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Clock, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Clock, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Flowerpot, the camera circles around.-0.mp4",
+                "video_results": 0.286897338199639
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Flowerpot, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Flowerpot, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Jar, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Jar, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Jar, the camera circles around.-2.mp4",
+                "video_results": 0.1075
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Bottle, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Bottle, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Bottle, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Bookshelf, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Bookshelf, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Bookshelf, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Train, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Train, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Train, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Trash Bin, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Trash Bin, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Trash Bin, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Motorbike, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Motorbike, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Motorbike, the camera circles around.-2.mp4",
+                "video_results": 0.22866666666666666
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Stove, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Stove, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Stove, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Mug, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Mug, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Mug, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Bowl, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Bowl, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Bowl, the camera circles around.-2.mp4",
+                "video_results": 0.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Washer, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Washer, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Washer, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Helmet, the camera circles around.-0.mp4",
+                "video_results": 0.01104761904761905
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Helmet, the camera circles around.-1.mp4",
+                "video_results": 0.015028029873912102
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Helmet, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Microwaves, the camera circles around.-0.mp4",
+                "video_results": 0.003794871794871795
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Microwaves, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Microwaves, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Skateboard, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Skateboard, the camera circles around.-1.mp4",
+                "video_results": 0.1784
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Skateboard, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Tower, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Tower, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Tower, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Camera, the camera circles around.-0.mp4",
+                "video_results": 0.01447619047619048
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Camera, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Camera, the camera circles around.-2.mp4",
+                "video_results": 0.02548367897281802
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Basket, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Basket, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Basket, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Dishwasher, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Dishwasher, the camera circles around.-1.mp4",
+                "video_results": 0.004948148912290732
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Dishwasher, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Rocket, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Rocket, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Rocket, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Birdhouse, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Birdhouse, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Birdhouse, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Earphone, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Earphone, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Earphone, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Microphone, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Microphone, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Microphone, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Remote, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Remote, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Remote, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Keyboard, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Keyboard, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Keyboard, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Trex, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Trex, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Trex, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Fern, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Fern, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Fern, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Fortre, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Fortre, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Fortre, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Living room, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Living room, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Living room, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Bedroom, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Bedroom, the camera circles around.-1.mp4",
+                "video_results": 0.22996452718728094
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Bedroom, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Indoor basketball court, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Indoor basketball court, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Indoor basketball court, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Dining room, the camera circles around.-0.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Dining room, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Dining room, the camera circles around.-2.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Conference room, the camera circles around.-0.mp4",
+                "video_results": 0.10621737167884442
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Conference room, the camera circles around.-1.mp4",
+                "video_results": -1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_seedance_v1_step4000_sr2x_704x1280/Multi-View_Consistency/The camera orbits around. Conference room, the camera circles around.-2.mp4",
+                "video_results": -1
+            }
+        ]
+    ]
+}

@@ -1,0 +1,67 @@
+# After `uv sync`, re-install retinaface (PyPI metadata conflicts with torchvision): `bash scripts/post_uv_sync.sh`
+# flash-attn is optional for LLaVA: vendored LLaVA uses sdpa when FlashAttention2 is unavailable. Prebuilt wheels must match Python+torch+CUDA+CXX11_ABI; otherwise build from source.
+
+[project]
+name = "agnesvideobench2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = "==3.11.*"
+dependencies = [
+    "albumentations>=2.0.8",
+    "easydict>=1.13",
+    "decord>=0.6.0",
+    "einops>=0.8.2",
+    "filterpy>=1.4.5",
+    "gdown>=6.0.0",
+    "httpx[socks]>=0.28.1",
+    "imageio>=2.37.3",
+    "lvis>=0.5.3",
+    "mmcv",
+    "mmdet==3.0.0",
+    "ninja>=1.13.0",
+    "openai>=2.31.0",
+    "opencv-python>=4.13.0.92",
+    "psutil>=7.2.2",
+    "pyyaml>=6.0.3",
+    "scenedetect>=0.6.5",
+    "scikit-video>=1.1.11",
+    "scipy>=1.17.1",
+    "setuptools>=69.5.1,<81",
+    "terminaltables>=3.1.10",
+    "timm==0.4.12",
+    "torch==2.10",
+    "torchvision==0.25",
+    "tqdm>=4.67.3",
+    "yacs>=0.1.8",
+    "yolo-world",
+    "llava",
+    "accelerate>=0.26.0",
+    "retinaface-pytorch==0.0.8",
+    "swift>=2.37.1",
+    "modelscope>=1.36.3",
+    "tensorboard>=2.20.0",
+    "datasets>=4.8.5",
+    "peft==0.12.0",
+    "transformers==4.49.0",
+    "qwen-vl-utils>=0.0.14",
+]
+
+[tool.uv.sources]
+mmcv = { path = "../../Envs/mmcv", editable = true }
+yolo-world = { path = "../../Envs/YOLO-World", editable = true }
+llava = { path = "VBench-2.0/vbench2/third_party/LLaVA_NeXT", editable = true }
+clip = { path = "../../Envs/CLIP" }
+
+[tool.uv]
+override-dependencies = [
+    "torchvision==0.25",
+    "torch==2.10",
+    "albumentations>=2.0.8",
+]
+
+[tool.uv.extra-build-dependencies]
+mmcv = ["setuptools<81"]
+mmyolo = ["torch"]
+chumpy = ["pip"]
+retinaface-pytorch = ["setuptools<81"]

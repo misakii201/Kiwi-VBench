@@ -1,0 +1,65 @@
+# Smoke-test 专用：仅 1 维度 × 2 prompt × 1 卡，用于快速验证整条链路（≈ 几分钟出 6 个 mp4）。
+# 通过后再把 dimensions 改为 [] 并把 gpus 改回 "0,1,2,3,4,5,6,7" 即可全量跑。
+
+model:
+  checkpoint_path: /kwkj-k8s/YANG_LTX/workspace/DAVINCI/output_train_video_from_t2i_ckptbest_seedance_vertical_v1/ckpt_step_4000.pt
+  base_ckpt_dir: /kwkj-k8s/davinci/LJH/models/daVinci-MagiHuman/base
+  config_load_path: /kwkj-k8s/YANG_LTX/workspace/DAVINCI/example/base/config.json
+
+params:
+  # 720P 竖屏方案：base 352×640 (latent 22×40) → SR 704×1280 (latent 44×80)，严格 2×。
+  # 几乎就是 720P（宽差 16 像素，纵横比 11:20 ≈ 9:16.36，比标准 9:16 略瘦一点点）。
+  # 训练原生 272×480，这里把推理上调到 352×640，理论上 base 支持但需要 smoke 验证。
+  seconds: 5
+  br_width: 352
+  br_height: 640
+  fps: 25
+  num_inference_steps: 32
+  cfg_number: 2
+  t2v_freeze_audio: true
+
+  use_sr: true
+  sr_model_path: /kwkj-k8s/davinci/LJH/models/daVinci-MagiHuman/540p_sr
+  sr_width: 704     # = 352 × 2 (latent 44 = 22 × 2)
+  sr_height: 1280   # = 640 × 2 (latent 80 = 40 × 2)
+  sr_num_inference_steps: 5
+  sr_cfg_number: 1
+  output_width: null
+  output_height: null
+  output_upsample_mode: bicubic
+
+vbench2:
+  prompts_dir: /kwkj-k8s/YANG_LTX/workspace/VBench/VBench-2.0/prompts/prompt
+  prompts_aug_dir: /kwkj-k8s/YANG_LTX/workspace/VBench/VBench-2.0/prompts/prompt_aug/VBench2_aug_prompt
+  # 输出到独立目录，避免污染正式跑分目录
+  output_dir: /kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_smoke_sr2x_704x1280
+
+  # 只跑 1 个维度，验证 T2V 竖屏近 720P（704×1280）链路
+  dimensions: ["Human_Anatomy"]
+  # 每维度仅取前 2 条 prompt
+  limit_prompts: 2
+  base_seed: 521
+
+  parallel:
+    # 单卡，1 进程；如想换卡改这里即可
+    gpus: "0"
+    per_gpu_workers: 1
+    base_master_port: 6010
+    max_worker_restarts: 3
+
+# 预期产出：
+#   workspace/RESULT/Videos/0515_davinci_smoke_sr2x_704x1280/Human_Anatomy/<prompt_0>-{0,1,2}.mp4
+#   （同上第二条 prompt）共 6 个 mp4。
+#
+# 启动命令：
+#   conda activate davinci
+#   cd /kwkj-k8s/YANG_LTX
+#   python workspace/DAVINCI/API/Vbench/run_vbench2_davinci.py \
+#     --config workspace/DAVINCI/API/Vbench/config_davinci_vbench2_smoke.yaml
+#
+# 看效果：
+#   ls workspace/RESULT/Videos/0515_davinci_smoke_sr2x_704x1280/Human_Anatomy/
+#   时长约 5 秒，分辨率 704×1280 竖屏（≈720P，base 352×640 + 540p_sr ×2）。
+#
+# 日志：
+#   tail -f workspace/RESULT/Videos/0515_davinci_smoke_sr2x_704x1280/_workers/worker_0.log

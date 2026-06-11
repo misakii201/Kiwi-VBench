@@ -1,0 +1,1322 @@
+[
+    {
+        "prompt_en": "A man is doing yoga.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A man is doing yoga.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A man is doing yoga.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A man is doing yoga.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A woman is doing yoga.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A woman is doing yoga.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A woman is doing yoga.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A woman is doing yoga.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "people are doing yoga.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/people are doing yoga.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/people are doing yoga.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/people are doing yoga.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A man is running.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A man is running.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A man is running.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A man is running.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A woman is running.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A woman is running.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A woman is running.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A woman is running.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "people are running.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/people are running.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/people are running.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/people are running.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A man is walking.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A man is walking.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A man is walking.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A man is walking.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A woman is walking.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A woman is walking.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A woman is walking.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A woman is walking.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "people are walking.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/people are walking.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/people are walking.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/people are walking.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A man is dancing.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A man is dancing.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A man is dancing.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A man is dancing.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A woman is dancing.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A woman is dancing.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A woman is dancing.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A woman is dancing.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "people are dancing.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/people are dancing.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/people are dancing.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/people are dancing.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A man is playing basketball.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A man is playing basketball.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A man is playing basketball.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A man is playing basketball.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A woman is playing basketball.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A woman is playing basketball.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A woman is playing basketball.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A woman is playing basketball.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "people are playing basketball.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/people are playing basketball.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/people are playing basketball.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/people are playing basketball.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A man is playing football.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A man is playing football.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A man is playing football.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A man is playing football.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A woman is playing football.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A woman is playing football.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A woman is playing football.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A woman is playing football.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "people are playing football.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/people are playing football.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/people are playing football.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/people are playing football.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A man is cutting objects.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A man is cutting objects.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A man is cutting objects.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A man is cutting objects.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A woman is cutting objects.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A woman is cutting objects.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A woman is cutting objects.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A woman is cutting objects.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A man is playing badminton.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A man is playing badminton.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A man is playing badminton.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A man is playing badminton.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A woman is playing badminton.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A woman is playing badminton.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A woman is playing badminton.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A woman is playing badminton.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "people are playing badminton.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/people are playing badminton.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/people are playing badminton.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/people are playing badminton.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A man is playing ping-pong.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A man is playing ping-pong.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A man is playing ping-pong.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A man is playing ping-pong.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A woman is playing ping-pong.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A woman is playing ping-pong.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A woman is playing ping-pong.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A woman is playing ping-pong.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "people are playing ping-pong.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/people are playing ping-pong.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/people are playing ping-pong.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/people are playing ping-pong.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A man is doing gymnastics.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A man is doing gymnastics.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A man is doing gymnastics.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A man is doing gymnastics.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A woman is doing gymnastics.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A woman is doing gymnastics.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A woman is doing gymnastics.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A woman is doing gymnastics.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "people are doing gymnastics.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/people are doing gymnastics.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/people are doing gymnastics.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/people are doing gymnastics.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A man is doing exercises.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A man is doing exercises.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A man is doing exercises.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A man is doing exercises.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A woman is doing exercises.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A woman is doing exercises.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A woman is doing exercises.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A woman is doing exercises.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "people are doing exercises.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/people are doing exercises.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/people are doing exercises.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/people are doing exercises.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A man is riding a bike.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A man is riding a bike.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A man is riding a bike.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A man is riding a bike.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A woman is riding a bike.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A woman is riding a bike.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A woman is riding a bike.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A woman is riding a bike.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A man is jumping.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A man is jumping.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A man is jumping.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A man is jumping.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A woman is jumping.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A woman is jumping.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A woman is jumping.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A woman is jumping.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is sitting on the couch, then suddenly they get up and start sweeping the floor.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is sitting on the couch, then suddenly they get up and start sweeping the floor.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is sitting on the couch, then suddenly they get up and start sweeping the floor.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is sitting on the couch, then suddenly they get up and start sweeping the floor.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is cooking dinner, then they suddenly start organizing the pantry.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is cooking dinner, then they suddenly start organizing the pantry.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is cooking dinner, then they suddenly start organizing the pantry.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is cooking dinner, then they suddenly start organizing the pantry.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is typing on a keyboard, then they suddenly get up and start making the bed.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is typing on a keyboard, then they suddenly get up and start making the bed.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is typing on a keyboard, then they suddenly get up and start making the bed.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is typing on a keyboard, then they suddenly get up and start making the bed.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is drinking a glass of water, then they suddenly start cleaning the windows.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is drinking a glass of water, then they suddenly start cleaning the windows.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is drinking a glass of water, then they suddenly start cleaning the windows.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is drinking a glass of water, then they suddenly start cleaning the windows.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is reading a book, then they suddenly start folding laundry.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is reading a book, then they suddenly start folding laundry.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is reading a book, then they suddenly start folding laundry.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is reading a book, then they suddenly start folding laundry.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is watching TV, then they suddenly get up and start washing dishes.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is watching TV, then they suddenly get up and start washing dishes.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is watching TV, then they suddenly get up and start washing dishes.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is watching TV, then they suddenly get up and start washing dishes.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is checking their phone, then they suddenly start watering the plants.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is checking their phone, then they suddenly start watering the plants.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is checking their phone, then they suddenly start watering the plants.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is checking their phone, then they suddenly start watering the plants.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is eating a sandwich, then they suddenly start organizing the bookshelf.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is eating a sandwich, then they suddenly start organizing the bookshelf.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is eating a sandwich, then they suddenly start organizing the bookshelf.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is eating a sandwich, then they suddenly start organizing the bookshelf.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is sitting in a chair, then they suddenly get up and start stretching.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is sitting in a chair, then they suddenly get up and start stretching.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is sitting in a chair, then they suddenly get up and start stretching.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is sitting in a chair, then they suddenly get up and start stretching.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is preparing a salad, then they suddenly start rearranging the furniture.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is preparing a salad, then they suddenly start rearranging the furniture.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is preparing a salad, then they suddenly start rearranging the furniture.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is preparing a salad, then they suddenly start rearranging the furniture.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is talking on the phone, then they suddenly start folding paper airplanes.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is talking on the phone, then they suddenly start folding paper airplanes.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is talking on the phone, then they suddenly start folding paper airplanes.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is talking on the phone, then they suddenly start folding paper airplanes.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is cleaning the kitchen, then they suddenly start mopping the floor.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is cleaning the kitchen, then they suddenly start mopping the floor.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is cleaning the kitchen, then they suddenly start mopping the floor.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is cleaning the kitchen, then they suddenly start mopping the floor.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is writing an email, then they suddenly get up and start baking cookies.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is writing an email, then they suddenly get up and start baking cookies.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is writing an email, then they suddenly get up and start baking cookies.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is writing an email, then they suddenly get up and start baking cookies.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is sitting at a desk, then they suddenly start making coffee.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is sitting at a desk, then they suddenly start making coffee.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is sitting at a desk, then they suddenly start making coffee.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is sitting at a desk, then they suddenly start making coffee.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is washing their hands, then they suddenly start arranging the pillows on the couch.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is washing their hands, then they suddenly start arranging the pillows on the couch.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is washing their hands, then they suddenly start arranging the pillows on the couch.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is washing their hands, then they suddenly start arranging the pillows on the couch.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is exercising, then they suddenly start making lunch.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is exercising, then they suddenly start making lunch.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is exercising, then they suddenly start making lunch.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is exercising, then they suddenly start making lunch.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is organizing their closet, then they suddenly start tidying the garage.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is organizing their closet, then they suddenly start tidying the garage.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is organizing their closet, then they suddenly start tidying the garage.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is organizing their closet, then they suddenly start tidying the garage.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is sitting at the table, then they suddenly start drawing on a notepad.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is sitting at the table, then they suddenly start drawing on a notepad.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is sitting at the table, then they suddenly start drawing on a notepad.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is sitting at the table, then they suddenly start drawing on a notepad.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is drinking tea, then they suddenly start folding the laundry.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is drinking tea, then they suddenly start folding the laundry.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is drinking tea, then they suddenly start folding the laundry.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is drinking tea, then they suddenly start folding the laundry.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is watching a movie, then they suddenly get up and start sweeping the porch.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is watching a movie, then they suddenly get up and start sweeping the porch.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is watching a movie, then they suddenly get up and start sweeping the porch.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is watching a movie, then they suddenly get up and start sweeping the porch.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is eating lunch, then they suddenly start cleaning the car.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is eating lunch, then they suddenly start cleaning the car.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is eating lunch, then they suddenly start cleaning the car.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is eating lunch, then they suddenly start cleaning the car.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is sitting at a desk, then they suddenly get up and start doing push-ups.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is sitting at a desk, then they suddenly get up and start doing push-ups.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is sitting at a desk, then they suddenly get up and start doing push-ups.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is sitting at a desk, then they suddenly get up and start doing push-ups.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is playing a game on their phone, then they suddenly start cleaning the bathroom.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is playing a game on their phone, then they suddenly start cleaning the bathroom.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is playing a game on their phone, then they suddenly start cleaning the bathroom.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is playing a game on their phone, then they suddenly start cleaning the bathroom.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is folding towels, then they suddenly start painting a picture.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is folding towels, then they suddenly start painting a picture.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is folding towels, then they suddenly start painting a picture.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is folding towels, then they suddenly start painting a picture.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is brushing their teeth, then they suddenly start making breakfast.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is brushing their teeth, then they suddenly start making breakfast.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is brushing their teeth, then they suddenly start making breakfast.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is brushing their teeth, then they suddenly start making breakfast.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is sitting at the kitchen table, then they suddenly get up and start doing the dishes.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is sitting at the kitchen table, then they suddenly get up and start doing the dishes.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is sitting at the kitchen table, then they suddenly get up and start doing the dishes.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is sitting at the kitchen table, then they suddenly get up and start doing the dishes.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is drinking coffee, then they suddenly get up and start sweeping the garage.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is drinking coffee, then they suddenly get up and start sweeping the garage.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is drinking coffee, then they suddenly get up and start sweeping the garage.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is drinking coffee, then they suddenly get up and start sweeping the garage.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is texting, then they suddenly get up and start vacuuming the floor.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is texting, then they suddenly get up and start vacuuming the floor.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is texting, then they suddenly get up and start vacuuming the floor.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is texting, then they suddenly get up and start vacuuming the floor.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is reading the news, then they suddenly start watering the plants.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is reading the news, then they suddenly start watering the plants.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is reading the news, then they suddenly start watering the plants.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is reading the news, then they suddenly start watering the plants.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is sitting in a chair, then they suddenly stand up and start stretching.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is sitting in a chair, then they suddenly stand up and start stretching.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is sitting in a chair, then they suddenly stand up and start stretching.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is sitting in a chair, then they suddenly stand up and start stretching.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is washing the dishes, then they suddenly start sweeping the floor.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is washing the dishes, then they suddenly start sweeping the floor.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is washing the dishes, then they suddenly start sweeping the floor.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is washing the dishes, then they suddenly start sweeping the floor.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is scrolling through their phone, then they suddenly get up and start organizing the kitchen.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is scrolling through their phone, then they suddenly get up and start organizing the kitchen.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is scrolling through their phone, then they suddenly get up and start organizing the kitchen.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is scrolling through their phone, then they suddenly get up and start organizing the kitchen.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is checking their email, then they suddenly start making a phone call.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is checking their email, then they suddenly start making a phone call.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is checking their email, then they suddenly start making a phone call.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is checking their email, then they suddenly start making a phone call.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is sitting at a desk, then they suddenly start cleaning the floor.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is sitting at a desk, then they suddenly start cleaning the floor.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is sitting at a desk, then they suddenly start cleaning the floor.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is sitting at a desk, then they suddenly start cleaning the floor.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is drinking water, then they suddenly start organizing their desk.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is drinking water, then they suddenly start organizing their desk.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is drinking water, then they suddenly start organizing their desk.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is drinking water, then they suddenly start organizing their desk.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is working on a project, then they suddenly start cooking dinner.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is working on a project, then they suddenly start cooking dinner.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is working on a project, then they suddenly start cooking dinner.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is working on a project, then they suddenly start cooking dinner.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is eating dinner, then they suddenly start washing the dishes.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is eating dinner, then they suddenly start washing the dishes.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is eating dinner, then they suddenly start washing the dishes.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is eating dinner, then they suddenly start washing the dishes.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is folding clothes, then they suddenly get up and start reading a book.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is folding clothes, then they suddenly get up and start reading a book.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is folding clothes, then they suddenly get up and start reading a book.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is folding clothes, then they suddenly get up and start reading a book.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is sitting on a chair, then they suddenly start cleaning the desk.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is sitting on a chair, then they suddenly start cleaning the desk.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is sitting on a chair, then they suddenly start cleaning the desk.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is sitting on a chair, then they suddenly start cleaning the desk.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is drinking tea, then they suddenly start making a phone call.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is drinking tea, then they suddenly start making a phone call.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is drinking tea, then they suddenly start making a phone call.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is drinking tea, then they suddenly start making a phone call.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is watching a video, then they suddenly get up and start sweeping the yard.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is watching a video, then they suddenly get up and start sweeping the yard.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is watching a video, then they suddenly get up and start sweeping the yard.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is watching a video, then they suddenly get up and start sweeping the yard.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is putting on shoes, then they suddenly start making a sandwich.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is putting on shoes, then they suddenly start making a sandwich.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is putting on shoes, then they suddenly start making a sandwich.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is putting on shoes, then they suddenly start making a sandwich.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is checking their calendar, then they suddenly get up and start folding clothes.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is checking their calendar, then they suddenly get up and start folding clothes.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is checking their calendar, then they suddenly get up and start folding clothes.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is checking their calendar, then they suddenly get up and start folding clothes.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is doing yoga, then they suddenly get up and start making dinner.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is doing yoga, then they suddenly get up and start making dinner.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is doing yoga, then they suddenly get up and start making dinner.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is doing yoga, then they suddenly get up and start making dinner.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is organizing their desk, then they suddenly start doing the dishes.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is organizing their desk, then they suddenly start doing the dishes.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is organizing their desk, then they suddenly start doing the dishes.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is organizing their desk, then they suddenly start doing the dishes.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is getting ready for work, then they suddenly start cleaning the kitchen.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is getting ready for work, then they suddenly start cleaning the kitchen.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is getting ready for work, then they suddenly start cleaning the kitchen.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is getting ready for work, then they suddenly start cleaning the kitchen.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is drinking a smoothie, then they suddenly start folding clothes.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is drinking a smoothie, then they suddenly start folding clothes.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is drinking a smoothie, then they suddenly start folding clothes.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is drinking a smoothie, then they suddenly start folding clothes.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is reading a magazine, then they suddenly get up and start organizing the closet.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is reading a magazine, then they suddenly get up and start organizing the closet.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is reading a magazine, then they suddenly get up and start organizing the closet.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is reading a magazine, then they suddenly get up and start organizing the closet.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is listening to music, then they suddenly start washing the dishes.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is listening to music, then they suddenly start washing the dishes.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is listening to music, then they suddenly start washing the dishes.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/A person is listening to music, then they suddenly start washing the dishes.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "One person hands a cup of water to another.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person hands a cup of water to another.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person hands a cup of water to another.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person hands a cup of water to another.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "One person passes a ball to another.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person passes a ball to another.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person passes a ball to another.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person passes a ball to another.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Two people shake hands.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people shake hands.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people shake hands.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people shake hands.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "One person ties the shoelaces of another person.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person ties the shoelaces of another person.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person ties the shoelaces of another person.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person ties the shoelaces of another person.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "One person opens the door for another person.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person opens the door for another person.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person opens the door for another person.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person opens the door for another person.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Two people exchange a book.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people exchange a book.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people exchange a book.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people exchange a book.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "One person puts a coat on another person.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person puts a coat on another person.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person puts a coat on another person.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person puts a coat on another person.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "One person places a chair for another to sit in.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person places a chair for another to sit in.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person places a chair for another to sit in.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person places a chair for another to sit in.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Two people are passing a stack of papers between them.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people are passing a stack of papers between them.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people are passing a stack of papers between them.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people are passing a stack of papers between them.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "One person hands a pen to another person.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person hands a pen to another person.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person hands a pen to another person.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person hands a pen to another person.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Two people are playing catch.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people are playing catch.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people are playing catch.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people are playing catch.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "One person picks up something dropped by another.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person picks up something dropped by another.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person picks up something dropped by another.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person picks up something dropped by another.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "One person helps another into a car.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person helps another into a car.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person helps another into a car.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person helps another into a car.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Two people push a heavy cart together.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people push a heavy cart together.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people push a heavy cart together.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people push a heavy cart together.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "One person places a blanket over another person.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person places a blanket over another person.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person places a blanket over another person.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person places a blanket over another person.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Two people are building a puzzle together.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people are building a puzzle together.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people are building a puzzle together.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people are building a puzzle together.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "One person picks up a fallen hat and hands it to another.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person picks up a fallen hat and hands it to another.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person picks up a fallen hat and hands it to another.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person picks up a fallen hat and hands it to another.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "One person adjusts the glasses of another.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person adjusts the glasses of another.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person adjusts the glasses of another.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person adjusts the glasses of another.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Two people are helping each other lift a large box.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people are helping each other lift a large box.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people are helping each other lift a large box.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people are helping each other lift a large box.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "One person hands a tissue to another person.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person hands a tissue to another person.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person hands a tissue to another person.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person hands a tissue to another person.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Two people hold a ladder while the other climbs.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people hold a ladder while the other climbs.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people hold a ladder while the other climbs.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people hold a ladder while the other climbs.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "One person hands another person a glass of juice.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person hands another person a glass of juice.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person hands another person a glass of juice.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person hands another person a glass of juice.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Two people are playing tug-of-war with a rope.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people are playing tug-of-war with a rope.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people are playing tug-of-war with a rope.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people are playing tug-of-war with a rope.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "One person ties a scarf around another person\u2019s neck.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person ties a scarf around another person\u2019s neck.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person ties a scarf around another person\u2019s neck.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person ties a scarf around another person\u2019s neck.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Two people exchange a handshake while holding a suitcase.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people exchange a handshake while holding a suitcase.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people exchange a handshake while holding a suitcase.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people exchange a handshake while holding a suitcase.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "One person helps another person put on a helmet.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person helps another person put on a helmet.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person helps another person put on a helmet.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person helps another person put on a helmet.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Two people are lifting a table together.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people are lifting a table together.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people are lifting a table together.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people are lifting a table together.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "One person hands a phone to another person.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person hands a phone to another person.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person hands a phone to another person.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person hands a phone to another person.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Two people are assembling furniture together.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people are assembling furniture together.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people are assembling furniture together.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people are assembling furniture together.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "One person adjusts the collar of another person\u2019s shirt.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person adjusts the collar of another person\u2019s shirt.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person adjusts the collar of another person\u2019s shirt.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person adjusts the collar of another person\u2019s shirt.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Two people are feeding each other at a picnic.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people are feeding each other at a picnic.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people are feeding each other at a picnic.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people are feeding each other at a picnic.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "One person hands another a piece of cake.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person hands another a piece of cake.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person hands another a piece of cake.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person hands another a piece of cake.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Two people are hanging a picture on the wall.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people are hanging a picture on the wall.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people are hanging a picture on the wall.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people are hanging a picture on the wall.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "One person points to something while the other looks.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person points to something while the other looks.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person points to something while the other looks.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/One person points to something while the other looks.-2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "Two people are exchanging keys.",
+        "dimension": [
+            "Human_Anatomy"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people are exchanging keys.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people are exchanging keys.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Human_Anatomy/Two people are exchanging keys.-2.mp4"
+        ]
+    }
+]

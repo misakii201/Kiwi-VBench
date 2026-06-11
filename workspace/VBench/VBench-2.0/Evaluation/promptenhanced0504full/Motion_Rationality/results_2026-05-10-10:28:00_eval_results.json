@@ -1,0 +1,703 @@
+{
+    "Motion_Rationality": [
+        0.5114942528735632,
+        [
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is slurping noodles from a steaming bowl.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is slurping noodles from a steaming bowl.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is slurping noodles from a steaming bowl.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is eating hamburger.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is eating hamburger.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is eating hamburger.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is eating ice cream.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is eating ice cream.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is eating ice cream.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is drinking coffee from a cup.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is drinking coffee from a cup.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is drinking coffee from a cup.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is spreading butter on toast.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is spreading butter on toast.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is spreading butter on toast.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is eating spaghetti with a fork.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is eating spaghetti with a fork.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is eating spaghetti with a fork.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is biting into an apple.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is biting into an apple.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is biting into an apple.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is peeling a banana.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is peeling a banana.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is peeling a banana.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is cutting a watermelon.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is cutting a watermelon.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is cutting a watermelon.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is eating a slice of pizza.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is eating a slice of pizza.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is eating a slice of pizza.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is breaking a chocolate bar into pieces.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is breaking a chocolate bar into pieces.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is breaking a chocolate bar into pieces.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is peeling a boiled egg.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is peeling a boiled egg.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is peeling a boiled egg.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is slicing a cucumber.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is slicing a cucumber.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is slicing a cucumber.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is pouring olive oil into a frying pan.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is pouring olive oil into a frying pan.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is pouring olive oil into a frying pan.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is cracking a crab shell.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is cracking a crab shell.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is cracking a crab shell.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is cutting a carrot into sticks.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is cutting a carrot into sticks.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is cutting a carrot into sticks.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is eating a hot dog.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is eating a hot dog.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is eating a hot dog.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is slicing bread with a knife.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is slicing bread with a knife.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is slicing bread with a knife.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is eating cereal with milk.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is eating cereal with milk.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is eating cereal with milk.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is spreading jam on bread.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is spreading jam on bread.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is spreading jam on bread.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is slicing a peach in half.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is slicing a peach in half.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is slicing a peach in half.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is eating popcorn.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is eating popcorn.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is eating popcorn.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is peeling a potato.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is peeling a potato.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is peeling a potato.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is rolling sushi.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is rolling sushi.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is rolling sushi.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is eating a chocolate truffle.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is eating a chocolate truffle.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is eating a chocolate truffle.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is drinking a smoothie from a glass.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is drinking a smoothie from a glass.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is drinking a smoothie from a glass.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is cutting a bell pepper.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is cutting a bell pepper.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is cutting a bell pepper.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is squeezing ketchup onto a plate.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is squeezing ketchup onto a plate.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is squeezing ketchup onto a plate.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is eating pudding with a spoon.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is eating pudding with a spoon.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is eating pudding with a spoon.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is drinking juice from a glass.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is drinking juice from a glass.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is drinking juice from a glass.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is eating chili with a spoon.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is eating chili with a spoon.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is eating chili with a spoon.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is walking down the street.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is walking down the street.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is walking down the street.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is walking with a backpack.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is walking with a backpack.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is walking with a backpack.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is walking backwards.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is walking backwards.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is walking backwards.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is walking up the stairs.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is walking up the stairs.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is walking up the stairs.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is running on the track.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is running on the track.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is running on the track.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A woman is cutting her hair.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A woman is cutting her hair.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A woman is cutting her hair.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is folding clothes.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is folding clothes.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is folding clothes.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is painting.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is painting.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is painting.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is turning on the desk lamp.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is turning on the desk lamp.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is turning on the desk lamp.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is turning off the desk lamp.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is turning off the desk lamp.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is turning off the desk lamp.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is closing the door.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is closing the door.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is closing the door.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is opening the window.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is opening the window.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is opening the window.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is closing the window.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is closing the window.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is closing the window.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is turning on the television.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is turning on the television.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is turning on the television.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is turning off the television.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is turning off the television.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is turning off the television.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is opening a book.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is opening a book.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is opening a book.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is turning on the fan.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is turning on the fan.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is turning on the fan.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is turning off the fan.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is turning off the fan.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is turning off the fan.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is picking up the phone.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is picking up the phone.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is picking up the phone.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is opening the laptop.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is opening the laptop.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is opening the laptop.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is folding the blanket.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is folding the blanket.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is folding the blanket.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is turning off the stove.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is turning off the stove.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is turning off the stove.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is opening the curtains.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is opening the curtains.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is opening the curtains.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is closing the curtains.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is closing the curtains.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is closing the curtains.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is pulling the blinds up.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is pulling the blinds up.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is pulling the blinds up.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is pulling the blinds down.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is pulling the blinds down.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is pulling the blinds down.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is moving the chair.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is moving the chair.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Motion_Rationality/A person is moving the chair.-2.mp4",
+                "video_results": 0
+            }
+        ]
+    ]
+}

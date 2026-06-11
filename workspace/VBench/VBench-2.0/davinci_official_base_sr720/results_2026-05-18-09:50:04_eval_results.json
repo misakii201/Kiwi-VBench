@@ -1,0 +1,1207 @@
+{
+    "Human_Interaction": [
+        0.6966666666666667,
+        [
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person hands a cup of water to another.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person hands a cup of water to another.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person hands a cup of water to another.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person passes a ball to another.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person passes a ball to another.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person passes a ball to another.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people shake hands.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people shake hands.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people shake hands.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person ties the shoelaces of another person.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person ties the shoelaces of another person.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person ties the shoelaces of another person.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person opens the door for another person.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person opens the door for another person.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person opens the door for another person.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people exchange a book.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people exchange a book.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people exchange a book.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person puts a coat on another person.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person puts a coat on another person.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person puts a coat on another person.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person places a chair for another to sit in.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person places a chair for another to sit in.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person places a chair for another to sit in.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are passing a stack of papers between them.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are passing a stack of papers between them.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are passing a stack of papers between them.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person hands a pen to another person.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person hands a pen to another person.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person hands a pen to another person.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are playing catch.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are playing catch.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are playing catch.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person picks up something dropped by another.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person picks up something dropped by another.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person picks up something dropped by another.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person helps another into a car.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person helps another into a car.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person helps another into a car.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people push a heavy cart together.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people push a heavy cart together.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people push a heavy cart together.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person places a blanket over another person.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person places a blanket over another person.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person places a blanket over another person.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are building a puzzle together.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are building a puzzle together.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are building a puzzle together.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person picks up a fallen hat and hands it to another.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person picks up a fallen hat and hands it to another.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person picks up a fallen hat and hands it to another.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person adjusts the glasses of another.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person adjusts the glasses of another.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person adjusts the glasses of another.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are helping each other lift a large box.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are helping each other lift a large box.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are helping each other lift a large box.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person hands a tissue to another person.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person hands a tissue to another person.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person hands a tissue to another person.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people hold a ladder while the other climbs.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people hold a ladder while the other climbs.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people hold a ladder while the other climbs.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person hands another person a glass of juice.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person hands another person a glass of juice.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person hands another person a glass of juice.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are playing tug-of-war with a rope.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are playing tug-of-war with a rope.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are playing tug-of-war with a rope.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person ties a scarf around another person\u2019s neck.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person ties a scarf around another person\u2019s neck.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person ties a scarf around another person\u2019s neck.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people exchange a handshake while holding a suitcase.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people exchange a handshake while holding a suitcase.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people exchange a handshake while holding a suitcase.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person helps another person put on a helmet.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person helps another person put on a helmet.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person helps another person put on a helmet.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are lifting a table together.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are lifting a table together.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are lifting a table together.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person hands a phone to another person.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person hands a phone to another person.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person hands a phone to another person.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are assembling furniture together.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are assembling furniture together.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are assembling furniture together.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person adjusts the collar of another person\u2019s shirt.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person adjusts the collar of another person\u2019s shirt.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person adjusts the collar of another person\u2019s shirt.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are feeding each other at a picnic.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are feeding each other at a picnic.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are feeding each other at a picnic.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person hands another a piece of cake.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person hands another a piece of cake.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person hands another a piece of cake.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are hanging a picture on the wall.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are hanging a picture on the wall.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are hanging a picture on the wall.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person points to something while the other looks.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person points to something while the other looks.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person points to something while the other looks.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are exchanging keys.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are exchanging keys.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are exchanging keys.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person lifts another person\u2019s suitcase.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person lifts another person\u2019s suitcase.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person lifts another person\u2019s suitcase.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are riding a tandem bicycle together.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are riding a tandem bicycle together.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are riding a tandem bicycle together.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person pushes another person in a wheelchair.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person pushes another person in a wheelchair.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person pushes another person in a wheelchair.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are carrying a large painting together.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are carrying a large painting together.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are carrying a large painting together.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person passes a pen to another person to sign something.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person passes a pen to another person to sign something.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person passes a pen to another person to sign something.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are holding hands while walking.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are holding hands while walking.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are holding hands while walking.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person brushes the hair of another person.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person brushes the hair of another person.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person brushes the hair of another person.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are clearing a table together.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are clearing a table together.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are clearing a table together.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person holds an umbrella over another person.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person holds an umbrella over another person.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person holds an umbrella over another person.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are packing a suitcase together.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are packing a suitcase together.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are packing a suitcase together.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person is handing a remote control to another person.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person is handing a remote control to another person.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person is handing a remote control to another person.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are walking side by side down a hallway.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are walking side by side down a hallway.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are walking side by side down a hallway.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person helps another person tie a bow tie.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person helps another person tie a bow tie.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person helps another person tie a bow tie.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are exchanging business cards.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are exchanging business cards.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are exchanging business cards.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person gently lifts another person\u2019s chin.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person gently lifts another person\u2019s chin.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person gently lifts another person\u2019s chin.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are pushing a stroller together.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are pushing a stroller together.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are pushing a stroller together.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person ties a ribbon around another person\u2019s wrist.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person ties a ribbon around another person\u2019s wrist.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person ties a ribbon around another person\u2019s wrist.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are holding hands while sitting on a bench.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are holding hands while sitting on a bench.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are holding hands while sitting on a bench.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person adjusts the tie of another person.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person adjusts the tie of another person.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person adjusts the tie of another person.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are unloading groceries from a car.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are unloading groceries from a car.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are unloading groceries from a car.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person helps another person pick up their books.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person helps another person pick up their books.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person helps another person pick up their books.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are placing food on a barbecue grill together.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are placing food on a barbecue grill together.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are placing food on a barbecue grill together.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person hands a map to another person.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person hands a map to another person.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person hands a map to another person.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are sweeping the floor together.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are sweeping the floor together.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are sweeping the floor together.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person holds a flashlight while another searches for something.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person holds a flashlight while another searches for something.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person holds a flashlight while another searches for something.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are measuring something with a tape measure.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are measuring something with a tape measure.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are measuring something with a tape measure.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person opens a window for another.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person opens a window for another.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person opens a window for another.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are holding a ladder while the other climbs.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are holding a ladder while the other climbs.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are holding a ladder while the other climbs.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person picks out clothes for another person.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person picks out clothes for another person.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person picks out clothes for another person.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are planting a tree together.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are planting a tree together.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are planting a tree together.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person helps another person onto a boat.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person helps another person onto a boat.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person helps another person onto a boat.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are putting up Christmas decorations together.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are putting up Christmas decorations together.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are putting up Christmas decorations together.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person fills another person\u2019s cup with tea.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person fills another person\u2019s cup with tea.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person fills another person\u2019s cup with tea.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are tying balloons together.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are tying balloons together.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are tying balloons together.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person is passing a towel to another person.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person is passing a towel to another person.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person is passing a towel to another person.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are carrying a heavy box up the stairs.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are carrying a heavy box up the stairs.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are carrying a heavy box up the stairs.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person cleans another person\u2019s shoes.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person cleans another person\u2019s shoes.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person cleans another person\u2019s shoes.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are changing a flat tire on a car together.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are changing a flat tire on a car together.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are changing a flat tire on a car together.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person passes a drink to another person.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person passes a drink to another person.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person passes a drink to another person.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are cutting vegetables together.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are cutting vegetables together.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are cutting vegetables together.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person helps another person put on a glove.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person helps another person put on a glove.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person helps another person put on a glove.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are practicing martial arts together.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are practicing martial arts together.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are practicing martial arts together.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person folds a shirt for another person.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person folds a shirt for another person.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person folds a shirt for another person.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are pushing a cart of laundry.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are pushing a cart of laundry.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are pushing a cart of laundry.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person helps another person tie their shoes.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person helps another person tie their shoes.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person helps another person tie their shoes.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are assembling a tent together.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are assembling a tent together.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are assembling a tent together.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person hands a notebook to another person.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person hands a notebook to another person.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person hands a notebook to another person.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are folding towels together.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are folding towels together.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are folding towels together.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person holds a door open while the other walks through.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person holds a door open while the other walks through.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person holds a door open while the other walks through.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are wrapping a gift together.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are wrapping a gift together.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are wrapping a gift together.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person lifts a suitcase for another person to carry.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person lifts a suitcase for another person to carry.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person lifts a suitcase for another person to carry.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are drawing a picture together.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are drawing a picture together.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are drawing a picture together.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person cleans another person\u2019s glasses.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person cleans another person\u2019s glasses.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person cleans another person\u2019s glasses.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are loading boxes into a car together.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are loading boxes into a car together.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are loading boxes into a car together.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person helps another person set the table.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person helps another person set the table.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person helps another person set the table.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are cleaning windows together.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are cleaning windows together.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are cleaning windows together.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person hands another person a glass of wine.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person hands another person a glass of wine.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person hands another person a glass of wine.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are putting on makeup together.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are putting on makeup together.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are putting on makeup together.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person brushes the dust off another person\u2019s jacket.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person brushes the dust off another person\u2019s jacket.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person brushes the dust off another person\u2019s jacket.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are fixing a broken chair together.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are fixing a broken chair together.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are fixing a broken chair together.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person adjusts the settings on another person\u2019s phone.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person adjusts the settings on another person\u2019s phone.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person adjusts the settings on another person\u2019s phone.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are washing a car together.-0.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are washing a car together.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are washing a car together.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person helps another person clean their shoes.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person helps another person clean their shoes.-1.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person helps another person clean their shoes.-2.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are putting away groceries together.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are putting away groceries together.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/Two people are putting away groceries together.-2.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person hands a camera to another person to take a photo.-0.mp4",
+                "video_results": 0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person hands a camera to another person to take a photo.-1.mp4",
+                "video_results": 1
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Human_Interaction/One person hands a camera to another person to take a photo.-2.mp4",
+                "video_results": 1
+            }
+        ]
+    ]
+}

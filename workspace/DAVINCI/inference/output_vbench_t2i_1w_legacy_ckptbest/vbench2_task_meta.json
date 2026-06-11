@@ -1,0 +1,23 @@
+{
+  "all_unique_tasks": 3209,
+  "active_tasks": 3209,
+  "dimensions": [
+    "Camera_Motion",
+    "Complex_Landscape",
+    "Complex_Plot",
+    "Composition",
+    "Diversity",
+    "Dynamic_Attribute",
+    "Dynamic_Spatial_Relationship",
+    "Human_Anatomy",
+    "Human_Interaction",
+    "Instance_Preservation",
+    "Material",
+    "Mechanics",
+    "Motion_Order_Understanding",
+    "Motion_Rationality",
+    "Multi-View_Consistency",
+    "Thermotics"
+  ],
+  "outdir": "/kwkj-k8s/cy123/workspace/DAVINCI/inference/output_vbench_t2i_1w_legacy_ckptbest"
+}

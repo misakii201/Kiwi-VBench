@@ -1,0 +1,51 @@
+# ===== 通用 =====
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.cache/
+*.log
+logs/
+.DS_Store
+
+# ===== 模型权重 / checkpoint / 数据 =====
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.pkl
+*.pickle
+
+# DAVINCI 大目录
+workspace/DAVINCI/dataset/
+workspace/DAVINCI/output*/
+workspace/DAVINCI/output_train*/
+
+# daVinci-MagiHuman 模型权重
+daVinci-MagiHuman-main/**/gemma/
+daVinci-MagiHuman-main/**/base/
+daVinci-MagiHuman-main/**/audio_model/
+
+# PromptIR
+PromptIR/.venv/
+PromptIR/ckpt/
+PromptIR/data/
+PromptIR/data_dir/
+
+# aili
+aili视频生成/outputs/
+aili视频生成/.test_tmp/
+
+# ===== VBench：按 B 排除 third_party 与评测产物 =====
+workspace/VBench/**/third_party/
+workspace/VBench/VBench-2.0/vbench2_videos_*/
+workspace/VBench/VBench-2.0/evaluation_results*/
+workspace/VBench/VBench-2.0/model_clip/
+workspace/VBench/evaluation_results/
+workspace/VBench/sampled_videos/
+workspace/VBench/pretrained/
+
+# 嵌套 git 目录（见第三节）
+**/.git/
+!/.git/

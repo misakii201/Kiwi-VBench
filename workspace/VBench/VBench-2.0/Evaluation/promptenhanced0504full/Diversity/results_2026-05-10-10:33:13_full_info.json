@@ -1,0 +1,282 @@
+[
+    {
+        "prompt_en": "A wooden toy is placed gently on the surface of a small bowl of water.",
+        "dimension": [
+            "Diversity"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A wooden toy is placed gently on the surface of a small bowl of water.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A wooden toy is placed gently on the surface of a small bowl of water.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A wooden toy is placed gently on the surface of a small bowl of water.-2.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A wooden toy is placed gently on the surface of a small bowl of water.-3.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A wooden toy is placed gently on the surface of a small bowl of water.-4.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A wooden toy is placed gently on the surface of a small bowl of water.-5.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A wooden toy is placed gently on the surface of a small bowl of water.-6.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A wooden toy is placed gently on the surface of a small bowl of water.-7.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A wooden toy is placed gently on the surface of a small bowl of water.-8.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A wooden toy is placed gently on the surface of a small bowl of water.-9.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A wooden toy is placed gently on the surface of a small bowl of water.-10.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A wooden toy is placed gently on the surface of a small bowl of water.-11.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A wooden toy is placed gently on the surface of a small bowl of water.-12.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A wooden toy is placed gently on the surface of a small bowl of water.-13.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A wooden toy is placed gently on the surface of a small bowl of water.-14.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A wooden toy is placed gently on the surface of a small bowl of water.-15.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A wooden toy is placed gently on the surface of a small bowl of water.-16.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A wooden toy is placed gently on the surface of a small bowl of water.-17.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A wooden toy is placed gently on the surface of a small bowl of water.-18.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A wooden toy is placed gently on the surface of a small bowl of water.-19.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A river changes from blue to brown.",
+        "dimension": [
+            "Diversity"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A river changes from blue to brown.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A river changes from blue to brown.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A river changes from blue to brown.-2.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A river changes from blue to brown.-3.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A river changes from blue to brown.-4.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A river changes from blue to brown.-5.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A river changes from blue to brown.-6.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A river changes from blue to brown.-7.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A river changes from blue to brown.-8.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A river changes from blue to brown.-9.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A river changes from blue to brown.-10.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A river changes from blue to brown.-11.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A river changes from blue to brown.-12.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A river changes from blue to brown.-13.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A river changes from blue to brown.-14.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A river changes from blue to brown.-15.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A river changes from blue to brown.-16.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A river changes from blue to brown.-17.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A river changes from blue to brown.-18.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A river changes from blue to brown.-19.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A dog is on the left of an apple, then the dog runs to the front of the apple.",
+        "dimension": [
+            "Diversity"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is on the left of an apple, then the dog runs to the front of the apple.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is on the left of an apple, then the dog runs to the front of the apple.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is on the left of an apple, then the dog runs to the front of the apple.-2.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is on the left of an apple, then the dog runs to the front of the apple.-3.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is on the left of an apple, then the dog runs to the front of the apple.-4.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is on the left of an apple, then the dog runs to the front of the apple.-5.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is on the left of an apple, then the dog runs to the front of the apple.-6.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is on the left of an apple, then the dog runs to the front of the apple.-7.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is on the left of an apple, then the dog runs to the front of the apple.-8.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is on the left of an apple, then the dog runs to the front of the apple.-9.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is on the left of an apple, then the dog runs to the front of the apple.-10.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is on the left of an apple, then the dog runs to the front of the apple.-11.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is on the left of an apple, then the dog runs to the front of the apple.-12.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is on the left of an apple, then the dog runs to the front of the apple.-13.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is on the left of an apple, then the dog runs to the front of the apple.-14.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is on the left of an apple, then the dog runs to the front of the apple.-15.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is on the left of an apple, then the dog runs to the front of the apple.-16.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is on the left of an apple, then the dog runs to the front of the apple.-17.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is on the left of an apple, then the dog runs to the front of the apple.-18.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is on the left of an apple, then the dog runs to the front of the apple.-19.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A man is playing basketball.",
+        "dimension": [
+            "Diversity"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A man is playing basketball.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A man is playing basketball.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A man is playing basketball.-2.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A man is playing basketball.-3.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A man is playing basketball.-4.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A man is playing basketball.-5.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A man is playing basketball.-6.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A man is playing basketball.-7.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A man is playing basketball.-8.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A man is playing basketball.-9.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A man is playing basketball.-10.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A man is playing basketball.-11.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A man is playing basketball.-12.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A man is playing basketball.-13.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A man is playing basketball.-14.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A man is playing basketball.-15.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A man is playing basketball.-16.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A man is playing basketball.-17.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A man is playing basketball.-18.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A man is playing basketball.-19.mp4"
+        ]
+    },
+    {
+        "prompt_en": "The camera circles around. Garden.",
+        "dimension": [
+            "Diversity"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/The camera circles around. Garden.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/The camera circles around. Garden.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/The camera circles around. Garden.-2.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/The camera circles around. Garden.-3.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/The camera circles around. Garden.-4.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/The camera circles around. Garden.-5.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/The camera circles around. Garden.-6.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/The camera circles around. Garden.-7.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/The camera circles around. Garden.-8.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/The camera circles around. Garden.-9.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/The camera circles around. Garden.-10.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/The camera circles around. Garden.-11.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/The camera circles around. Garden.-12.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/The camera circles around. Garden.-13.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/The camera circles around. Garden.-14.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/The camera circles around. Garden.-15.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/The camera circles around. Garden.-16.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/The camera circles around. Garden.-17.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/The camera circles around. Garden.-18.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/The camera circles around. Garden.-19.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A shark and a giraffe create a new species.",
+        "dimension": [
+            "Diversity"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A shark and a giraffe create a new species.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A shark and a giraffe create a new species.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A shark and a giraffe create a new species.-2.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A shark and a giraffe create a new species.-3.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A shark and a giraffe create a new species.-4.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A shark and a giraffe create a new species.-5.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A shark and a giraffe create a new species.-6.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A shark and a giraffe create a new species.-7.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A shark and a giraffe create a new species.-8.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A shark and a giraffe create a new species.-9.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A shark and a giraffe create a new species.-10.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A shark and a giraffe create a new species.-11.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A shark and a giraffe create a new species.-12.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A shark and a giraffe create a new species.-13.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A shark and a giraffe create a new species.-14.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A shark and a giraffe create a new species.-15.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A shark and a giraffe create a new species.-16.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A shark and a giraffe create a new species.-17.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A shark and a giraffe create a new species.-18.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A shark and a giraffe create a new species.-19.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A dog is sitting in the yard, then it suddenly starts running in circles.",
+        "dimension": [
+            "Diversity"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is sitting in the yard, then it suddenly starts running in circles.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is sitting in the yard, then it suddenly starts running in circles.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is sitting in the yard, then it suddenly starts running in circles.-2.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is sitting in the yard, then it suddenly starts running in circles.-3.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is sitting in the yard, then it suddenly starts running in circles.-4.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is sitting in the yard, then it suddenly starts running in circles.-5.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is sitting in the yard, then it suddenly starts running in circles.-6.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is sitting in the yard, then it suddenly starts running in circles.-7.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is sitting in the yard, then it suddenly starts running in circles.-8.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is sitting in the yard, then it suddenly starts running in circles.-9.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is sitting in the yard, then it suddenly starts running in circles.-10.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is sitting in the yard, then it suddenly starts running in circles.-11.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is sitting in the yard, then it suddenly starts running in circles.-12.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is sitting in the yard, then it suddenly starts running in circles.-13.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is sitting in the yard, then it suddenly starts running in circles.-14.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is sitting in the yard, then it suddenly starts running in circles.-15.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is sitting in the yard, then it suddenly starts running in circles.-16.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is sitting in the yard, then it suddenly starts running in circles.-17.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is sitting in the yard, then it suddenly starts running in circles.-18.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A dog is sitting in the yard, then it suddenly starts running in circles.-19.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is eating ice cream.",
+        "dimension": [
+            "Diversity"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A person is eating ice cream.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A person is eating ice cream.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A person is eating ice cream.-2.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A person is eating ice cream.-3.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A person is eating ice cream.-4.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A person is eating ice cream.-5.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A person is eating ice cream.-6.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A person is eating ice cream.-7.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A person is eating ice cream.-8.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A person is eating ice cream.-9.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A person is eating ice cream.-10.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A person is eating ice cream.-11.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A person is eating ice cream.-12.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A person is eating ice cream.-13.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A person is eating ice cream.-14.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A person is eating ice cream.-15.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A person is eating ice cream.-16.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A person is eating ice cream.-17.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A person is eating ice cream.-18.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/A person is eating ice cream.-19.mp4"
+        ]
+    },
+    {
+        "prompt_en": "One person picks out clothes for another person.",
+        "dimension": [
+            "Diversity"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/One person picks out clothes for another person.-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/One person picks out clothes for another person.-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/One person picks out clothes for another person.-2.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/One person picks out clothes for another person.-3.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/One person picks out clothes for another person.-4.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/One person picks out clothes for another person.-5.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/One person picks out clothes for another person.-6.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/One person picks out clothes for another person.-7.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/One person picks out clothes for another person.-8.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/One person picks out clothes for another person.-9.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/One person picks out clothes for another person.-10.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/One person picks out clothes for another person.-11.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/One person picks out clothes for another person.-12.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/One person picks out clothes for another person.-13.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/One person picks out clothes for another person.-14.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/One person picks out clothes for another person.-15.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/One person picks out clothes for another person.-16.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/One person picks out clothes for another person.-17.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/One person picks out clothes for another person.-18.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/One person picks out clothes for another person.-19.mp4"
+        ]
+    },
+    {
+        "prompt_en": "In a distant mountain range, there was said to be a legendary red dragon. Whenever it hatched a golden egg, the world\u2019s wealth and fortune would explode. A young adventurer named Leon heard of the legend and decided to find the dragon. Along the way, he faced numerous dangers, but with determination, he eventually found the dragon\u2019s lair and successfully stole the golden egg. However, upon returning to his kingdom with the egg, Leon realized that the kingdom had fallen into chaos because of his actions. Ultimately, Leon decided to return the egg and used his wisdom to restore peace to the kingdom.",
+        "dimension": [
+            "Diversity"
+        ],
+        "video_list": [
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/In a distant mountain range, there was said to be a legendary red dragon. Whenever it hatched a golden egg, the world\u2019s wealth and fortune would explode. A young adventurer named L-0.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/In a distant mountain range, there was said to be a legendary red dragon. Whenever it hatched a golden egg, the world\u2019s wealth and fortune would explode. A young adventurer named L-1.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/In a distant mountain range, there was said to be a legendary red dragon. Whenever it hatched a golden egg, the world\u2019s wealth and fortune would explode. A young adventurer named L-2.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/In a distant mountain range, there was said to be a legendary red dragon. Whenever it hatched a golden egg, the world\u2019s wealth and fortune would explode. A young adventurer named L-3.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/In a distant mountain range, there was said to be a legendary red dragon. Whenever it hatched a golden egg, the world\u2019s wealth and fortune would explode. A young adventurer named L-4.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/In a distant mountain range, there was said to be a legendary red dragon. Whenever it hatched a golden egg, the world\u2019s wealth and fortune would explode. A young adventurer named L-5.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/In a distant mountain range, there was said to be a legendary red dragon. Whenever it hatched a golden egg, the world\u2019s wealth and fortune would explode. A young adventurer named L-6.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/In a distant mountain range, there was said to be a legendary red dragon. Whenever it hatched a golden egg, the world\u2019s wealth and fortune would explode. A young adventurer named L-7.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/In a distant mountain range, there was said to be a legendary red dragon. Whenever it hatched a golden egg, the world\u2019s wealth and fortune would explode. A young adventurer named L-8.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/In a distant mountain range, there was said to be a legendary red dragon. Whenever it hatched a golden egg, the world\u2019s wealth and fortune would explode. A young adventurer named L-9.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/In a distant mountain range, there was said to be a legendary red dragon. Whenever it hatched a golden egg, the world\u2019s wealth and fortune would explode. A young adventurer named L-10.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/In a distant mountain range, there was said to be a legendary red dragon. Whenever it hatched a golden egg, the world\u2019s wealth and fortune would explode. A young adventurer named L-11.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/In a distant mountain range, there was said to be a legendary red dragon. Whenever it hatched a golden egg, the world\u2019s wealth and fortune would explode. A young adventurer named L-12.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/In a distant mountain range, there was said to be a legendary red dragon. Whenever it hatched a golden egg, the world\u2019s wealth and fortune would explode. A young adventurer named L-13.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/In a distant mountain range, there was said to be a legendary red dragon. Whenever it hatched a golden egg, the world\u2019s wealth and fortune would explode. A young adventurer named L-14.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/In a distant mountain range, there was said to be a legendary red dragon. Whenever it hatched a golden egg, the world\u2019s wealth and fortune would explode. A young adventurer named L-15.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/In a distant mountain range, there was said to be a legendary red dragon. Whenever it hatched a golden egg, the world\u2019s wealth and fortune would explode. A young adventurer named L-16.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/In a distant mountain range, there was said to be a legendary red dragon. Whenever it hatched a golden egg, the world\u2019s wealth and fortune would explode. A young adventurer named L-17.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/In a distant mountain range, there was said to be a legendary red dragon. Whenever it hatched a golden egg, the world\u2019s wealth and fortune would explode. A young adventurer named L-18.mp4",
+            "/mnt/data4/myx/workspace/VBench/VBench-2.0/vbench2_videos_2.3lora_promptenhanced/Diversity/In a distant mountain range, there was said to be a legendary red dragon. Whenever it hatched a golden egg, the world\u2019s wealth and fortune would explode. A young adventurer named L-19.mp4"
+        ]
+    }
+]

@@ -1,0 +1,691 @@
+{
+    "Instance_Preservation": [
+        0.9005847953216374,
+        [
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/An orange dog is running.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/An orange dog is running.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/An orange dog is running.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two white sheep are walking.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two white sheep are walking.-1.mp4",
+                "video_results": 0.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two white sheep are walking.-2.mp4",
+                "video_results": 0.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A person is running.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A person is running.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A person is running.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/An orange dog changes from big to small.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/An orange dog changes from big to small.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/An orange dog changes from big to small.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two orange dogs are running.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two orange dogs are running.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two orange dogs are running.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two white sheep are eating grass.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two white sheep are eating grass.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two white sheep are eating grass.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two people are running.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two people are running.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two people are running.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/An orange cat changes from big to small.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/An orange cat changes from big to small.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/An orange cat changes from big to small.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A brown dog is on the left of an apple, then the dog moves to the right of the apple.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A brown dog is on the left of an apple, then the dog moves to the right of the apple.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A brown dog is on the left of an apple, then the dog moves to the right of the apple.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two blue birds flies through the sky, coming close to each other and forming a complex formation.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two blue birds flies through the sky, coming close to each other and forming a complex formation.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two blue birds flies through the sky, coming close to each other and forming a complex formation.-2.mp4",
+                "video_results": 0.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A man is playing basketball.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A man is playing basketball.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A man is playing basketball.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A fish changes from small to big.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A fish changes from small to big.-1.mp4",
+                "video_results": 0.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A fish changes from small to big.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/An orange cat is running.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/An orange cat is running.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/An orange cat is running.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A ball rolls off the table.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A ball rolls off the table.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A ball rolls off the table.-2.mp4",
+                "video_results": 0.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two men are playing basketball.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two men are playing basketball.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two men are playing basketball.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A fish changes from big to small.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A fish changes from big to small.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A fish changes from big to small.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/An orange cat and a white cat are running.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/An orange cat and a white cat are running.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/An orange cat and a white cat are running.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A blue ball rolls off the table.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A blue ball rolls off the table.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A blue ball rolls off the table.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two red balloons are floating in the air.-0.mp4",
+                "video_results": 0.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two red balloons are floating in the air.-1.mp4",
+                "video_results": 0.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two red balloons are floating in the air.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A beige lion changes from big to small.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A beige lion changes from big to small.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A beige lion changes from big to small.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/An orange cat and a white cat are fighting.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/An orange cat and a white cat are fighting.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/An orange cat and a white cat are fighting.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A red ball bouncing down stairs-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A red ball bouncing down stairs-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A red ball bouncing down stairs-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A top is spinning.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A top is spinning.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A top is spinning.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A beige tiger changes from small to big.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A beige tiger changes from small to big.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A beige tiger changes from small to big.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/An orange cat is on the left of an apple, then the cat moves to the right of the apple.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/An orange cat is on the left of an apple, then the cat moves to the right of the apple.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/An orange cat is on the left of an apple, then the cat moves to the right of the apple.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A red ball and a blue ball bouncing down stairs-0.mp4",
+                "video_results": 0.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A red ball and a blue ball bouncing down stairs-1.mp4",
+                "video_results": 0.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A red ball and a blue ball bouncing down stairs-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A red top and a blue top are spinning.-0.mp4",
+                "video_results": 0.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A red top and a blue top are spinning.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A red top and a blue top are spinning.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/An orange cat is in front of a tree, then the cat moves to the left of the tree.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/An orange cat is in front of a tree, then the cat moves to the left of the tree.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/An orange cat is in front of a tree, then the cat moves to the left of the tree.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A beige tiger is running.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A beige tiger is running.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A beige tiger is running.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A red ball falls from a height, hits the ground, and bounces back up.-0.mp4",
+                "video_results": 0.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A red ball falls from a height, hits the ground, and bounces back up.-1.mp4",
+                "video_results": 0.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A red ball falls from a height, hits the ground, and bounces back up.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two red tops are spinning.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two red tops are spinning.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two red tops are spinning.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A beige tiger is in front of a tree, then the tiger moves to the left of the tree.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A beige tiger is in front of a tree, then the tiger moves to the left of the tree.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A beige tiger is in front of a tree, then the tiger moves to the left of the tree.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two sandy kangaroos are jumping.-0.mp4",
+                "video_results": 0.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two sandy kangaroos are jumping.-1.mp4",
+                "video_results": 0.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two sandy kangaroos are jumping.-2.mp4",
+                "video_results": 0.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A red ball and a blue ball fall from a height, hits the ground, and bounces back up.-0.mp4",
+                "video_results": 0.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A red ball and a blue ball fall from a height, hits the ground, and bounces back up.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A red ball and a blue ball fall from a height, hits the ground, and bounces back up.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A drone is floating in the air.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A drone is floating in the air.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A drone is floating in the air.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A white sheep is in front of a tree, then the sheep moves to the left of the tree.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A white sheep is in front of a tree, then the sheep moves to the left of the tree.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A white sheep is in front of a tree, then the sheep moves to the left of the tree.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two sandy kangaroos are fighting.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two sandy kangaroos are fighting.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two sandy kangaroos are fighting.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Aerial view, aerial view. Aerial view, aerial view. One blue balls and one red balls are on the wooden table and collide horizontally, bird's-eye view.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Aerial view, aerial view. Aerial view, aerial view. One blue balls and one red balls are on the wooden table and collide horizontally, bird's-eye view.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Aerial view, aerial view. Aerial view, aerial view. One blue balls and one red balls are on the wooden table and collide horizontally, bird's-eye view.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A black drone is floating in the air.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A black drone is floating in the air.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A black drone is floating in the air.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A giraffe is walking.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A giraffe is walking.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A giraffe is walking.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two basketballs spin rapidly on the floor.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two basketballs spin rapidly on the floor.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two basketballs spin rapidly on the floor.-2.mp4",
+                "video_results": 0.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two black drones are floating in the air.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two black drones are floating in the air.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two black drones are floating in the air.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two giraffes are walking.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two giraffes are walking.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two giraffes are walking.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two footballs spin rapidly on the floor.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two footballs spin rapidly on the floor.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two footballs spin rapidly on the floor.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A black drone and a blue drone are floating in the air.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A black drone and a blue drone are floating in the air.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A black drone and a blue drone are floating in the air.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A brown bear is running.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A brown bear is running.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A brown bear is running.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A red car is moving along the road.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A red car is moving along the road.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A red car is moving along the road.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A droplet of water is falling.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A droplet of water is falling.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A droplet of water is falling.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two brown bears are running.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two brown bears are running.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two brown bears are running.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A car speeds along a winding mountain road, with trees rapidly passing by.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A car speeds along a winding mountain road, with trees rapidly passing by.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A car speeds along a winding mountain road, with trees rapidly passing by.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A panda changes from small to big.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A panda changes from small to big.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A panda changes from small to big.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A orange fox is running.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A orange fox is running.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A orange fox is running.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A man and a woman is doing yoga.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A man and a woman is doing yoga.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A man and a woman is doing yoga.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A panda changes from big to small.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A panda changes from big to small.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A panda changes from big to small.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A white sheep is walking.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A white sheep is walking.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/A white sheep is walking.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two people are doing yoga.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two people are doing yoga.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/Two people are doing yoga.-2.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/An orange dog changes from small to big.-0.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/An orange dog changes from small to big.-1.mp4",
+                "video_results": 1.0
+            },
+            {
+                "video_path": "/kwkj-k8s/YANG_LTX/workspace/RESULT/Videos/0515_davinci_official_base_sr2x_704x1280/Instance_Preservation/An orange dog changes from small to big.-2.mp4",
+                "video_results": 1.0
+            }
+        ]
+    ]
+}
